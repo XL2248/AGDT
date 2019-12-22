@@ -1,0 +1,6 @@
+<unk>
+misc
+food
+price
+service
+ambience

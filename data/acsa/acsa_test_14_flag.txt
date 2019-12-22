@@ -1,0 +1,1025 @@
+the bread is top notch as well.	food	no	positive
+i have to say they have one of the fastest delivery times in the city.	service	no	positive
+food is always fresh and hot- ready to eat!	food	no	positive
+did i mention that the coffee is outstanding?	food	no	positive
+certainly not the best sushi in new york, however, it is always fresh, and the place is very clean, sterile.	food	yes	conflict
+certainly not the best sushi in new york, however, it is always fresh, and the place is very clean, sterile.	ambience	yes	positive
+i trust the people at go sushi, it never disappoints.	misc	no	positive
+straight-forward, no surprises, very decent japanese food.	food	no	positive
+best spicy tuna roll, great asian salad.	food	no	positive
+try the rose roll (not on menu).	food	no	positive
+i love the drinks, esp lychee martini, and the food is also very good.	food	no	positive
+in fact, this was not a nicoise salad and was barely eatable.	food	no	negative
+while there's a decent menu, it shouldn't take ten minutes to get your drinks and 45 for a dessert pizza.	food	yes	positive
+while there's a decent menu, it shouldn't take ten minutes to get your drinks and 45 for a dessert pizza.	service	yes	negative
+once we sailed, the top-notch food and live entertainment sold us on a unforgettable evening.	food	no	positive
+once we sailed, the top-notch food and live entertainment sold us on a unforgettable evening.	ambience	no	positive
+our waiter was horrible; so rude and disinterested.	service	no	negative
+the sangria's - watered down.	food	no	negative
+menu - uneventful, small.	food	no	negative
+anytime and everytime i find myself in the neighborhood i will go to sushi rose for fresh sushi and great portions all at a reasonable price.	food	no	positive
+anytime and everytime i find myself in the neighborhood i will go to sushi rose for fresh sushi and great portions all at a reasonable price.	price	no	positive
+great food but the service was dreadful!	food	yes	positive
+great food but the service was dreadful!	service	yes	negative
+the portions of the food that came out were mediocre.	food	no	neutral
+the two waitress's looked like they had been sucking on lemons.	service	no	negative
+from the beginning, we were met by friendly staff memebers, and the convienent parking at chelsea piers made it easy for us to get to the boat.	service	no	positive
+from the beginning, we were met by friendly staff memebers, and the convienent parking at chelsea piers made it easy for us to get to the boat.	misc	no	positive
+we enjoyed ourselves thoroughly and will be going back for the desserts ....	food	no	positive
+we enjoyed ourselves thoroughly and will be going back for the desserts ....	misc	no	positive
+desserts are almost incredible: my personal favorite is their tart of the day.	food	no	positive
+i am surprised at the lower reviews because it is definitely better than other places i have tried with higher ratings.	misc	no	positive
+maybe the secret was that we went on a sunday night and everything was great.	misc	no	positive
+the food was extremely tasty, creatively presented and the wine excellent.	food	no	positive
+we ended up in little italy in late afternoon.	misc	no	neutral
+we were pleasantly surprised with our choice.	misc	no	positive
+the lasagna was probably the best i have tasted.	food	no	positive
+harumi sushi has the freshest and most delicious array of sushi in nyc.	food	no	positive
+i highly recommend it for not just its superb cuisine, but also for its friendly owners and staff.	food	no	positive
+i highly recommend it for not just its superb cuisine, but also for its friendly owners and staff.	service	no	positive
+if you're craving some serious indian food and desire a cozy ambiance, this is quite and exquisite choice.	food	no	positive
+if you're craving some serious indian food and desire a cozy ambiance, this is quite and exquisite choice.	ambience	no	positive
+i definitely enjoyed the food as well.	food	no	positive
+have always had a great time here.	misc	no	positive
+it was pleasantly uncrowded, the service was delightful, the garden adorable, the food (from appetizers to entrees) was delectable.	ambience	no	positive
+it was pleasantly uncrowded, the service was delightful, the garden adorable, the food (from appetizers to entrees) was delectable.	service	no	positive
+it was pleasantly uncrowded, the service was delightful, the garden adorable, the food (from appetizers to entrees) was delectable.	food	no	positive
+you will be very happy with the experience.	misc	no	positive
+the food is surprisingly good, and the decor is nice.	food	no	positive
+the food is surprisingly good, and the decor is nice.	ambience	no	positive
+how pretentious and inappropriate for mj grill to claim that it provides power lunch and dinners!	food	no	negative
+two wasted steaks -- what a crime!	food	no	negative
+the staff should be a bit more friendly.	service	no	negative
+i absolutely suggest this place.	misc	no	positive
+i think the meatball parm is good.	food	no	positive
+if you want good tasting, well seasoned latin food eat at cabana and you can't go wrong.	food	no	positive
+definitely try the taglierini with truffles - it was incredible.	food	no	positive
+also, the staff is very attentive and really personable.	service	no	positive
+overall, this is a great new restaurant that has been consistently good every time i have been.	misc	no	positive
+the gnocchi literally melts in your mouth!	food	no	positive
+had a great experience at trio ... staff was pleasant; food was tasty and large in portion size - i would highly recommend the portobello/gorgonzola/sausage appetizer and the lobster risotto.	service	no	positive
+had a great experience at trio ... staff was pleasant; food was tasty and large in portion size - i would highly recommend the portobello/gorgonzola/sausage appetizer and the lobster risotto.	food	no	positive
+entrees include classics like lasagna, fettuccine alfredo and chicken parmigiana.	food	no	neutral
+the food is good, the teriyaki i recommend.	food	no	positive
+meal was very expensive for what you get.	food	no	negative
+meal was very expensive for what you get.	price	no	negative
+try the peanut butter sorbet and the pizza with soy cheese!	food	no	positive
+good food at the right price, what more can you ask for.	food	no	positive
+good food at the right price, what more can you ask for.	price	no	positive
+we love it, and took buses and cabs to get there.	misc	no	positive
+if you' re in new york, you do not want to miss this place.	misc	no	positive
+the food is top notch, the service is attentive, and the atmosphere is great.	food	no	positive
+the food is top notch, the service is attentive, and the atmosphere is great.	service	no	positive
+the food is top notch, the service is attentive, and the atmosphere is great.	ambience	no	positive
+i've been coming here on and off for the past five years and i have to say that la lanterna has never, ever dissapointed me.	misc	no	positive
+great food, great waitstaff, great atmosphere, and best of all great beer!	food	no	positive
+great food, great waitstaff, great atmosphere, and best of all great beer!	service	no	positive
+great food, great waitstaff, great atmosphere, and best of all great beer!	ambience	no	positive
+this is still one of my most favorite restaurants in the area the food is inexpensive but very good (kimono shrimp special was excellent) and has a great atmosphere.	food	no	positive
+this is still one of my most favorite restaurants in the area the food is inexpensive but very good (kimono shrimp special was excellent) and has a great atmosphere.	price	no	positive
+this is still one of my most favorite restaurants in the area the food is inexpensive but very good (kimono shrimp special was excellent) and has a great atmosphere.	ambience	no	positive
+my husband and i moved to nolita 6 years ago and for as long as we have lived here, peasant has been our favorite!	misc	no	positive
+the whole experience was satisfying.	misc	no	positive
+however, it was worth the visit.	misc	no	positive
+the menu is interesting and quite reasonably priced.	food	no	positive
+the menu is interesting and quite reasonably priced.	price	no	positive
+the food was delicious and clearly fresh ingredients were used.	food	no	positive
+this made it obvious that the food wasn't cooked fresh; it was obviously made before hand and then reheated.	food	no	negative
+appetizer are excellent here; you can make a great (and inexpensive) meal out of them.	food	no	positive
+appetizer are excellent here; you can make a great (and inexpensive) meal out of them.	price	no	positive
+the spicy mussels are a highlight.	food	no	positive
+also get the onion rings -- best we've ever had.	food	no	positive
+would not return for the amount we paid.	price	no	negative
+however, being foodies, we were utterly disappointed with the food.	food	no	negative
+huge portions, great and attentive service, and pretty good prices.	food	no	positive
+huge portions, great and attentive service, and pretty good prices.	service	no	positive
+huge portions, great and attentive service, and pretty good prices.	price	no	positive
+i was highly disappointed by their service and food.	service	no	negative
+i was highly disappointed by their service and food.	food	no	negative
+i complained to the waiter and then to the manager, but the intensity of rudeness from them just went up.	service	no	negative
+the food is great and the milkshakes are even better!	food	no	positive
+stay away if you're claustrophobic	ambience	no	negative
+if you're in the 'hood, definitely stop in.	misc	no	positive
+the mushroom barley soup is amazing.	food	no	positive
+on the recommendation of a friend, i checked out arezzo with my wife.	misc	no	neutral
+i'm glad i did as the food was very good and the staff was friendly, courteous and efficient.	food	no	positive
+i'm glad i did as the food was very good and the staff was friendly, courteous and efficient.	service	no	positive
+their duck here is also absolutely delicious.	food	no	positive
+this is definitely one of the places that i have continued to come back to over the years.	misc	no	positive
+while it was large and a bit noisy, the drinks were fantastic, and the food was superb.	ambience	yes	negative
+while it was large and a bit noisy, the drinks were fantastic, and the food was superb.	food	yes	positive
+one caveat: some of the curried casseroles can be a trifle harsh.	food	no	negative
+i wasn't impressed and it wasn't spicey????	food	no	negative
+the food was almost always excellent.	food	no	positive
+i was pleasently surprised at the taste.	food	no	positive
+a nice space, as long as it doesn't get too crowded and a singleminded devotion to its chosen cuisine make mare a great choice for seafood lovers.	ambience	yes	conflict
+a nice space, as long as it doesn't get too crowded and a singleminded devotion to its chosen cuisine make mare a great choice for seafood lovers.	food	yes	positive
+i never had an orange donut before so i gave it a shot.	food	no	neutral
+they really provide a relaxing, laid-back atmosphere.	ambience	no	positive
+this particular location certainly uses substandard meats.	food	no	negative
+i stumbled upon this resteraunt on my way home from the subway.	misc	no	neutral
+the management was less than accomodating.	service	no	negative
+the ambience is also more laid-back and relaxed.	ambience	no	positive
+the teas are great and all the sweets are homemade.	food	no	positive
+mojitos and the service are the best part in there	food	no	positive
+mojitos and the service are the best part in there	service	no	positive
+sandwiches, burgers and salads, like the lemon-dressed cobb, are classic successes.	food	no	positive
+this restaurant is absolutely beautiful.	misc	no	positive
+the design is very intimate and romantic.	ambience	no	positive
+the food was wonderful and imaginative.	food	no	positive
+the staff is very sharp and they look good too.	service	no	positive
+the worst though was the taste.	food	no	negative
+they were dry, stale and pretty flavorless.	food	no	negative
+the fajita we tried was tasteless and burned and the mole sauce was way too sweet.	food	no	negative
+stay with the roasted chickens and you'll be fine.	food	no	positive
+the atmosphere is warm, comfortable, artsy and sexy.	ambience	no	positive
+the food is great (big selection, reasonable prices) and the drinks are really good.	food	no	positive
+the food is great (big selection, reasonable prices) and the drinks are really good.	price	no	positive
+the steak melted in my mouth.	food	no	positive
+the food did take a few extra minutes to come, but the cute waiters' jokes and friendliness made up for it.	service	no	conflict
+most importantly, it is reasonably priced.	price	no	positive
+the selection of food is excellent (i'm not used to having much choice at restaurants), and the atmosphere is great.	food	no	positive
+the selection of food is excellent (i'm not used to having much choice at restaurants), and the atmosphere is great.	ambience	no	positive
+only suggestion is that you skip the dessert, it was overpriced and fell short on taste.	food	no	negative
+only suggestion is that you skip the dessert, it was overpriced and fell short on taste.	price	no	negative
+food was decent, but not great.	food	no	positive
+i have no idea why this restaurant is so often overlooked.	misc	no	positive
+from the moment you walk in, you feel like you're in the perfect place.	misc	no	positive
+i dont know what some people who rave about this hot dog are talking about.	food	no	negative
+it is a hidden delight complete with a quaint bar and good food.	food	no	positive
+it is a hidden delight complete with a quaint bar and good food.	ambience	no	positive
+i find that most kosher restaurants are average to good, but this has been the best i've eaten so far.	misc	no	positive
+the waiters always look angry and even ignore their high-tipping regulars.	service	no	negative
+the atmosphere is very nice, and a welcome escape from the rest of the si mall.	ambience	no	positive
+yes, they're a bit more expensive then typical, but then again, so is their food.	price	yes	negative
+yes, they're a bit more expensive then typical, but then again, so is their food.	food	yes	positive
+not terrible, but not the restaurant in the reviews of 2002.	misc	no	negative
+i can say that the wraps, burgers and salads were all fresh, tasty and the mango margareta at $9 was well worth the money.	food	no	positive
+i can say that the wraps, burgers and salads were all fresh, tasty and the mango margareta at $9 was well worth the money.	price	no	positive
+it was delicious and large!	food	no	positive
+anywhere else, the prices would be 3x as high!	price	no	positive
+the service we experienced was friendly and good.	service	no	positive
+our waiter was friendly and it is a shame that he didnt have a supportive staff to work with.	service	no	conflict
+the folding chair i was seated at was uncomfortable.	ambience	no	negative
+as we waited i watched 3 seperate groups of diners discuss how dissapointed they also were.	misc	no	negative
+an excellent choice in midtown.	misc	no	positive
+service was among the best i have ever had in nyc.	service	no	positive
+the fettucino alfredo was amazing.	food	no	positive
+the food was very good and i was pleasantly surprised to see so many vegan options.	food	no	positive
+i know real indian food and this wasn't it.	food	no	negative
+be sure to try the smoked trout...lamb chops, veal chops, rabbit, the potato gratin, on and on and on...	food	no	positive
+even when the chef is not in the house, the food and service are right on target.	food	no	positive
+even when the chef is not in the house, the food and service are right on target.	service	no	positive
+everything from the eggs benedict to the mussels and even the hamburger were done well and very tasty.	food	no	positive
+the waiters were very professional, courteous and attentive.	service	no	positive
+my boyfriend and i went here last night and loved it!	misc	no	positive
+the falafal was rather over cooked and dried but the chicken was fine.	food	no	conflict
+i highly reccomend the grand marnier shrimp, it's insanely good.	food	no	positive
+we been there and we really enjoy the food, was areally great food, and the service was really good.	food	no	positive
+we been there and we really enjoy the food, was areally great food, and the service was really good.	service	no	positive
+desserts include flan and sopaipillas.	food	no	neutral
+i was starving and the small portions were driving me crazy!	food	no	negative
+the wait staff was loud and inconsiderate.	service	no	negative
+however, the food and service and dramatically lacking.	food	no	negative
+however, the food and service and dramatically lacking.	service	no	negative
+the sushi is cut in blocks bigger than my cell phone.	food	no	negative
+the service is great, my soup always arrives nice and hot.	service	no	positive
+the service is great, my soup always arrives nice and hot.	food	no	positive
+it had been awhile and i forgot just how delicious crepes can be.	food	no	positive
+montparnasse's desserts--especially the silken creme brulee and paper-thin apple tart--are good enough on their own to make the restaurant worth the trip.	food	no	positive
+my friend told me about this restaurant for a year before he finally took me this weekend.	misc	no	neutral
+i had a delicious shrimp creole.	food	no	positive
+the chicken dinner was real good.	food	no	positive
+beware of the chili signed food items not unless you want to call the fire department to douse the flames in your mouth.	food	no	negative
+the decor is designed in a contemporary japanese style restaurant.	ambience	no	neutral
+but the food was delicious.	food	no	positive
+try the ribs, sizzling beef and couple it with coconut rice.	food	no	positive
+the only drawback is that it's a little pricey.	price	no	negative
+everything about this place was wonderful.	misc	no	positive
+the avocado salad is a personal fave.	food	no	positive
+and, the honey bbq rib tips are yummy!	food	no	positive
+the best chinese food uptown!	food	no	positive
+service is known for bending over backwards to make everyone happy.	service	no	positive
+the atmosphere is attractive, but a little uncomfortable.	ambience	no	conflict
+the staff is very friendly.	service	no	positive
+waiters are very friendly and the pasta is out of this world.	service	no	positive
+waiters are very friendly and the pasta is out of this world.	food	no	positive
+great wine list and great cocktail menu.	food	no	positive
+the crab cakes are delicious and the bbq rib was perfect.	food	no	positive
+the food is wonderful, artfully done and simply delicious.	food	no	positive
+tiny restaurant with very fast service.	service	yes	positive
+tiny restaurant with very fast service.	ambience	yes	neutral
+the sauce may not be for everyone, since it is distintive.	food	no	conflict
+my husband and i have been there at least 6 times and we've always been given the highest service and often free desserts.	service	no	positive
+my husband and i have been there at least 6 times and we've always been given the highest service and often free desserts.	price	no	positive
+a beautiful atmosphere, perfect for drinks and/or appetizers.	ambience	no	positive
+curioni's pizza has been around since the 1920's.	misc	no	neutral
+they make the best pizza in new jersey.	food	no	positive
+i recently visited over this past summer after being away for a year.	misc	no	neutral
+what a difference, the service was very comforting and the food was better than average, but what really standed out was such a dynamic and extensive beer list.	service	no	positive
+what a difference, the service was very comforting and the food was better than average, but what really standed out was such a dynamic and extensive beer list.	food	no	positive
+frankly, the chinese food here is something i can make better at home.	food	no	negative
+there was only one waiter for the whole restaurant upstairs.	service	no	negative
+we started with the scallops and asparagus and also had the soft shell crab as well as the cheese plate.	food	no	neutral
+not to be overlooked, the service is excellent.	service	no	positive
+this without question is one of the worst hotdogs i have ever had.	food	no	negative
+the staff is unbelievably friendly, and i dream about their saag gosht...so good.	service	no	positive
+the staff is unbelievably friendly, and i dream about their saag gosht...so good.	food	no	positive
+i also recommend the garlic knots.	food	no	positive
+best indian food i have ever eaten.	food	no	positive
+you won't be dissapointed.	misc	no	positive
+this place has the best pizza.	food	no	positive
+culinaria is a welcome addition to the garment district- far better than any restaurant in the area.	misc	no	positive
+the music which is sometimes a little too heavy for my taste.	ambience	no	negative
+the service is excellent and always informative without an air.	service	no	positive
+the owner and staff go to great lengths to make you feel comfortable.	service	no	positive
+i can't stand this dungeon.	ambience	no	negative
+the sushi is always fresh and yummy and the menu is pretty varied.	food	no	positive
+the food was great - sushi was good, but the cooked food amazed us.	food	no	positive
+their dinner specials are fantastic.	food	no	positive
+delish and made to your liking!	food	no	positive
+great food, great drinks, nice dining atmosphere.	food	no	positive
+great food, great drinks, nice dining atmosphere.	ambience	no	positive
+for the price you pay for the food here, you'd expect it to be at least on par with other japanese restaurants.	price	no	negative
+for the price you pay for the food here, you'd expect it to be at least on par with other japanese restaurants.	food	no	negative
+food portion was small and below average.	food	no	negative
+do yourself a favor and avoid this place at all cost!	misc	no	negative
+since the first time i came here i've been hooked.	misc	no	positive
+sit back in one of those comfortable chairs.	ambience	no	positive
+people in the neighborhood seem to love it, too.	misc	no	positive
+in conclusion, this place sucks!!!	misc	no	negative
+my favs here are the tacos pastor and the tostada de tinga...	food	no	positive
+nick stef's is one of the only places worthy of going in the area, so if you happen to be by madison square garden or herald's square check it out!	misc	no	positive
+have to tell you: not at all impressed.	misc	no	negative
+the bartenders and the managers are really nice and the decor is very comfy and laid-back, all the while being trendy.	service	no	positive
+the bartenders and the managers are really nice and the decor is very comfy and laid-back, all the while being trendy.	ambience	no	positive
+for a savory take on the soup and sandwich meal, try the hot and sour soup.	food	no	positive
+this bar has it all - great drinks, cool atmosphere, excellent service and delicious food.	food	no	positive
+this bar has it all - great drinks, cool atmosphere, excellent service and delicious food.	ambience	no	positive
+this bar has it all - great drinks, cool atmosphere, excellent service and delicious food.	service	no	positive
+also, the chick peas with shrimp (appetizer) is divine.	food	no	positive
+finally, i got sick of the bad service, obnoxious smirks, and snotty back talk.	service	no	negative
+how have i never been to agave before?	misc	no	positive
+you're going to drop some coin, but completely worth it, especially if you are looking to impress someone.	price	no	conflict
+we ordered lamb which was perfectly cooked and tasted awesome.	food	no	positive
+i especially like their soft shell crab sandwich with fries.	food	no	positive
+if you're looking for authentic hong kong-style food, look no further.	food	no	positive
+my wife i lived on the west side and found this while visiting firends on the ues.	misc	no	neutral
+good food good wine that's it.	food	no	positive
+a nice find in the neighborhood.	misc	no	positive
+the staff was extremely friendly and pleasant.	service	no	positive
+and as soon as one person is done, she asked to pick up the plate immediately.	service	no	negative
+this place is italian, not french.	misc	no	neutral
+after so many great reviews here, my bf and i went to esca to celebrate my birthday last nite.	misc	no	neutral
+while their kitchen food is delicious, their sushi is out of this world.	food	no	positive
+there was a heat problem to boot, so it was about 40 degrees in the restaurant -- we had to request to uncheck our coats!	ambience	no	negative
+everything is scrumptious, from the excellent service by cute waitresses, to the extremely lush atmosphere.	service	no	positive
+everything is scrumptious, from the excellent service by cute waitresses, to the extremely lush atmosphere.	ambience	no	positive
+it's traditional, simple italian food.	food	no	positive
+my girlfriend and i just spent our 10 month anniversary at lou lou.	misc	no	neutral
+the food is all-around good, with the rolls usually excellent and the sushi/sashimi not quite on the same level.	food	no	positive
+(the sashimi is cut a little thinly.	food	no	negative
+bay terrace mall is nothing (ok, almost nothing) without it!	misc	no	positive
+could have had better for 1/3 the price in chinatown.	price	no	negative
+my husband and i had a blast.	misc	no	positive
+personally i say save your money.	misc	no	negative
+in addition to great hot dogs, dotp has wonderful breakfast sandwiches that feature, in addition to great things like tator tots and english muffins, a delicious nj-based pork product know to us jersey girls and boys as taylor ham.	food	no	positive
+believe me, they live up to the name.	misc	no	positive
+well, it happened because of a graceless manager and a rude bartender who had us waiting 20 minutes for drinks, and then tells us to chill out.	service	no	negative
+not only is the service great, but forming conversation around a table is so easy beacuse the atmosphere can be both romantic and comfortable.	service	no	positive
+not only is the service great, but forming conversation around a table is so easy beacuse the atmosphere can be both romantic and comfortable.	ambience	no	positive
+when the dish arrived it was blazing with green chillis, definitely not edible by a human.	food	no	negative
+the absolute worst service i've ever experienced and the food was below average (when they actually gave people the meals they ordered).	service	no	negative
+the absolute worst service i've ever experienced and the food was below average (when they actually gave people the meals they ordered).	food	no	negative
+it's about $7 for lunch and they have take-out or dine-in.	price	no	neutral
+it's about $7 for lunch and they have take-out or dine-in.	service	no	neutral
+they are by far the best past in new york.	misc	no	positive
+i have eaten here several times before attending an afternoon performance.	misc	no	neutral
+everything is very cheap.	price	no	positive
+be sure to accompany your food with one of their fresh juice concoctions.	food	no	positive
+the food is great and the prices are reasonable.	food	no	positive
+the food is great and the prices are reasonable.	price	no	positive
+the place is clean, and if you like soul food, then this is the place to be!	ambience	no	positive
+the place is clean, and if you like soul food, then this is the place to be!	food	no	positive
+you'll see a lot of people eating there after church.	misc	no	neutral
+i had roast chicken and a salad.	food	no	neutral
+i've been a regular customer at juice generation for the last 3 months - my office moved to the film center on ninth avenue and they are on the next block.	misc	no	neutral
+they have a very good chicken with avocado and good tuna as well.	food	no	positive
+it's the kind of place i like to support!	misc	no	positive
+but the meals were terrible.	food	no	negative
+my chicken was completely dried out and on the cold side and the sauce was not very flavorful.	food	no	negative
+malted milk ball gelato - have you ever in your life heard of anything so ridiculously wonderful?	food	no	positive
+just walk by the window and see all the unbiased positive reviews in all the major nyc publications.	misc	no	positive
+way too much money for such a terrible meal.	price	no	negative
+way too much money for such a terrible meal.	food	no	negative
+would not recommend anyone to go.	misc	no	negative
+however, the service is absolutely horrible.	service	no	negative
+a con was the slow bar service.	service	no	negative
+dessert was also to die for!	food	no	positive
+btw, the service is very good .	service	no	positive
+we loved it and will go back!	misc	no	positive
+i came again weeks later with my boyfriend and again had a very nice experience.	misc	no	positive
+it's eaten with black vinegar and shredded ginger.	food	no	neutral
+the unattractive lighting made me want to gag, the food was overpriced, there was the most awful disco pop duo performing-and my escargot looked like it might crawl off the plate.	ambience	no	negative
+the unattractive lighting made me want to gag, the food was overpriced, there was the most awful disco pop duo performing-and my escargot looked like it might crawl off the plate.	price	no	negative
+the unattractive lighting made me want to gag, the food was overpriced, there was the most awful disco pop duo performing-and my escargot looked like it might crawl off the plate.	food	no	negative
+we'll definitly be back again!	misc	no	positive
+this is the best italian restaurant in the city.	misc	no	positive
+it is a cozy place to go with a couple of friends.	ambience	no	positive
+the service is always great, and the owner walks around to make sure you enjoy.	service	no	positive
+because the waiters need severe attitue adjustments.	service	no	negative
+there are numerous shavue restaurants in la, but few out here.	misc	no	neutral
+horrible experience - stay away!	misc	no	negative
+if this restaurant was in manhattan, i would definitely go more often.	misc	no	positive
+the food is delicious and highly recommended.	food	no	positive
+when it came time to take the order the waiter gave us a hard time, walked away then came back with a paper and pen for us to write down what we wanted...excuse me but isn't that his job???	service	no	negative
+one of my fav spots in the city.	misc	no	positive
+over priced, overrated....stay away!	price	no	negative
+over priced, overrated....stay away!	misc	no	negative
+do not go to this restaurant.	misc	no	negative
+since i was in the neighborhood, we made sure to give this a try.	misc	no	neutral
+all i can say is they are fantastic.	misc	no	positive
+dieters stick to salads or indulge in vegetarian platters.	food	no	positive
+so for a filling and healthy meal give it a go.	food	no	positive
+i can't imagine how much worse it would have been if we'd gone at a prime time!	misc	no	negative
+i have dined at mammino several times now and each time it gets bettter.	misc	no	positive
+definitely something to come down and check out.	misc	no	positive
+since i cook for a living, i'm very fussy about the food i eat in restaurants.	misc	no	neutral
+the service was outstanding.	service	no	positive
+i went for restaurant week.	misc	no	neutral
+my friends and i stop here for pizza before hitting the kips bay movie theater.	misc	no	neutral
+we always enjoy the pizza.	food	no	positive
+the service is pretty good.	service	no	positive
+i went there with a few friends and will return.	misc	no	positive
+this place has been around for a few years.	misc	no	neutral
+yum, the chicken is great here.	food	no	positive
+i highly recommend this restaurant!!	misc	no	positive
+you will find everything about trio to your liking!	misc	no	positive
+this place was the worst.	misc	no	negative
+i ordered from here last week.	misc	no	neutral
+this is a nice sushi restaurant in brooklyn that's located on 86 street, right underneath the train station.	misc	no	positive
+the food here was great, a treat from beginning to end.	food	no	positive
+the host (owner) and servers are personable and caring.	service	no	positive
+i decided to try out this place after hearing about it in many magazines.	misc	no	neutral
+it's just everything...the food, the atmosphere...the incrediby kind and gracious hostess.	food	no	positive
+it's just everything...the food, the atmosphere...the incrediby kind and gracious hostess.	ambience	no	positive
+it's just everything...the food, the atmosphere...the incrediby kind and gracious hostess.	service	no	positive
+having moved i truly miss this place.	misc	no	positive
+the food is very good and the service is great.	food	no	positive
+the food is very good and the service is great.	service	no	positive
+i usually get one the vietnamese beef noodle soup.	food	no	neutral
+sum it: local investment bankers like it, try for yourself at least once.	misc	no	positive
+i started going to dosa hut more after that.	misc	no	positive
+we were wondering why they were there to make our dining experience miserable?	misc	no	negative
+too bad, has a lot of potential.	misc	no	conflict
+this place has the best indian food in new york, hands down.	food	no	positive
+the waiters are very friendly and helpful and if you frequent they will remember you.	service	no	positive
+intimate but charming interior with extremely friendly and attentive service.	ambience	no	positive
+intimate but charming interior with extremely friendly and attentive service.	service	no	positive
+the food was as creative as the decor and both worked.	food	no	positive
+the food was as creative as the decor and both worked.	ambience	no	positive
+siam square is fairly new to the neighborhood and i think in time will gain the recognition it deserves.	misc	no	positive
+my first experience at siam square was very pleasant.	misc	no	positive
+i have gone back to siam square many times since and everytime i am very satisfied overall.	misc	no	positive
+the menu is great, with a good selection, and everything that i have tried is absolutely delicious.	food	no	positive
+we had our christmas party at dos caminos and it was wonderful.	misc	no	positive
+my personal favorite is nick and joe's.	misc	no	positive
+the sauce is zesty and flavorful and the crust is nice and crispy.	food	no	positive
+this place has the best sushi in the city.	food	no	positive
+they have an excellent selection (the rolls with crab are really great).	food	no	positive
+everyone who works there (the host, the bartender, the servers) is so helpful.	service	no	positive
+and the food is fantastic.	food	no	positive
+favourites include: potato spinach gnocchi and the lamb.	food	no	positive
+another great thing about glechik-everything is very cheap!	price	no	positive
+unfortunately, we chose this spot for lunch as we had done a lot of walking and ended up at the south st seaport.	misc	no	negative
+but regulars know that the sandwiches are the real star here.	food	no	positive
+the skillfully chosen portuguese cheese cart paired with quality port provides the perfect iberian ending.	food	no	positive
+my friend had a burger and i had these wonderful blueberry pancakes.	food	no	positive
+we were so happy with our food and were even more thrilled when we saw the bill.	food	no	positive
+we were so happy with our food and were even more thrilled when we saw the bill.	price	no	positive
+i would definitely come back to this restaurant.	misc	no	positive
+the place just isn't ready for prime time.	misc	no	negative
+all toppings are so fresh you'd think they had their own vegetable garden and the crust is so perfect, that one actually thinks of how it was made.	food	no	positive
+quartino is my favoriate resturant in nyc.	misc	no	positive
+we've always gotten amazing service and we love the food.	service	no	positive
+we've always gotten amazing service and we love the food.	food	no	positive
+the waitstaff is solicitous and friendly and always seems glad to see us, and the food is wonderful, if not stunningly creative.	service	no	positive
+the waitstaff is solicitous and friendly and always seems glad to see us, and the food is wonderful, if not stunningly creative.	food	no	positive
+i'm in love with the lobster ravioli!	food	no	positive
+my order is on my table even on a busy friday night within 10 minutes (at the most) of hanging up the phone.	service	no	positive
+we came across this restaurant by accident while at a dumbo art festival and thoroughly enjoyed our meal.	food	no	positive
+service is excellent, no wait, and you get a lot for the price.	service	no	positive
+service is excellent, no wait, and you get a lot for the price.	price	no	positive
+service is excellent, no wait, and you get a lot for the price.	food	no	positive
+i thought the food isn't cheap at all compared to chinatown.	price	no	negative
+and you never get the feeling that you need to leave.	misc	no	positive
+coffee is a better deal than overpriced cosi sandwiches.	price	no	conflict
+we didn't know if we should order a drink or leave?	misc	no	neutral
+great neighbhorhood spot.	misc	no	positive
+bobb v's is a great place to take your friends and family!	misc	no	positive
+) it's not the best japanese restaurant in the east village, but it's a pretty solid one for its modest prices, and worth repeat visits.	price	yes	positive
+) it's not the best japanese restaurant in the east village, but it's a pretty solid one for its modest prices, and worth repeat visits.	misc	yes	conflict
+the food is so good and so popular that waiting can really be a nightmare.	food	yes	positive
+the food is so good and so popular that waiting can really be a nightmare.	service	yes	negative
+here's the thing, you're in the best city in the world for restaurants.	misc	no	positive
+go spend your money somewhere that really wows you.	misc	no	neutral
+the crowd was older and the restaurant is very cramped, but it has old school charm.	ambience	no	conflict
+this is a real gem of a place.	misc	no	positive
+i think this a a wonderful place.	misc	no	positive
+first walking in the place seemed to have great ambience.	ambience	no	positive
+i went to kitchenette this weekend for brunch.	misc	no	neutral
+this place doesn't get the publicity that sylvias soul food restaurant does, but it should.	misc	no	positive
+just because p diddy had a party at butter doesn't mean we should be automatically impressed.	misc	no	negative
+even for two very hungry people there is plenty of food left to be taken home (it reheats really well also).	food	no	positive
+like i said, nick and joe's may not be everyone's favorite, but it's mine.	misc	no	positive
+the help was extremely nice and did not rush us.	service	no	positive
+then they somehow made a dry and burnt crust, around a raw and cold inside.	food	no	negative
+it's just good food, nothing more and that's all we want!	food	no	positive
+don't know what the others on the block were like but we were pleased with our choice.	misc	no	positive
+average cake thats been courted by a lot of hype.	food	no	negative
+it's cute and simple and i loved it.	misc	no	positive
+my wife and i recently visited the bistro for dinner and had a wonderful experience.	misc	no	positive
+the service is perfect too  nothing wrong in this italian/french restaurant	service	no	positive
+the service is perfect too  nothing wrong in this italian/french restaurant	misc	no	positive
+my fiance and i recently wanted to see the city and deceided to take a dinner cruise.	misc	no	neutral
+the $72 delmonico steak had to be sent back because it was not cooked to order.	food	no	negative
+the $72 delmonico steak had to be sent back because it was not cooked to order.	price	no	negative
+everytime i go there i can't pick anything to eat and not because the menu is filled with great things to eat.	food	no	negative
+half a chicken with a mountain of rice and beans for $6.25.	price	no	positive
+the service is really fast and friendly, and the value is great.	service	no	positive
+the service is really fast and friendly, and the value is great.	price	no	positive
+we were very impressed with the food and value.	food	no	positive
+we were very impressed with the food and value.	price	no	positive
+you must try the garlic soup!	food	no	positive
+casablanca servces delicious falafel, tabouleh, humus and other mediterranean delights, which are all very inexpensive.	food	no	positive
+casablanca servces delicious falafel, tabouleh, humus and other mediterranean delights, which are all very inexpensive.	price	no	positive
+even after a few bad evenings at bardolino, i keep coming back.	misc	no	conflict
+the pizza's are made fresh, crispy, and ready to serve.	food	no	positive
+there are many french bistros in the midtown area, and i wholheartedly recommend this one.	misc	no	positive
+staff is accomodating make sure you are satified.	service	no	positive
+chef waldy's always measures up.	food	no	positive
+this diamond in the ruff is definitely worth my 10-minute walk from the 6 train.	misc	no	positive
+being a vegan myself, i've made a point of trying all the vegan restaurants in manhattan--and zen palate is easily my favorite.	misc	no	positive
+don pedro's is one of my favorite restaurants.	misc	no	positive
+reasonably priced with very fresh sushi.	price	no	positive
+reasonably priced with very fresh sushi.	food	no	positive
+go for the seafood paella for two.	food	no	positive
+all of the apetizers are good and the sangria is very good.	food	no	positive
+cantinetta is a real treasure in a see of mediocre italian restaurants.	misc	no	positive
+the one positive thing i can say is that the service was prompt, we got seated right away and the server was very friendly.	service	no	positive
+the staff greeted me warmly at the door and i was seated promptly and the food was excellent.	service	no	positive
+the staff greeted me warmly at the door and i was seated promptly and the food was excellent.	food	no	positive
+whether one pizza place is better than another is often very subjective.	misc	no	neutral
+really nice restaurant to go with a group or on a date.	misc	no	positive
+service is usually pretty good.	service	no	positive
+host and hostess was quite rude.	service	no	negative
+you will not be missing anything.	misc	no	negative
+i discovered applebees when i went away to college in va.	misc	no	neutral
+the wait staff is very friendly, if your not rude or picky.......our meal at leon last weekend was great -.	service	no	positive
+the wait staff is very friendly, if your not rude or picky.......our meal at leon last weekend was great -.	food	no	positive
+i recommend any of their salmon dishes......	food	no	positive
+the foie gras was sweet and luscious.	food	no	positive
+the menu, which changes seasonally, shows both regional and international influences.	food	no	neutral
+but their mac cheese was yummy!	food	no	positive
+their brunch menu had something for everyone.	food	no	positive
+jazz singer had a nice voice + she made us all get up to dance to shake some cals to eat some more.	ambience	no	positive
+i often find myself with time to kill in times square, which is a shame since i don't love this area.	misc	no	negative
+they have very quick service which is great when you don't have much time.	service	no	positive
+the food is average: breakfast food, soups, salads, sandwiches, etc.	food	no	neutral
+i was highly disappointed by the food.	food	no	negative
+the banana pudding they serve has never seen an oven,the crabcakes are way over salted and don't get me started on the very greasy mac and cheese.	food	no	negative
+the staff is arrogant, the prices are way high for brooklyn.	service	no	negative
+the staff is arrogant, the prices are way high for brooklyn.	price	no	negative
+this place is average... at best.	misc	no	negative
+the service is prompt friendly.	service	no	positive
+whatever the reason it is definitely the place to be.	misc	no	positive
+this is literally a hot spot when it comes to the food.	food	no	positive
+the downstairs bar scene is very cool and chill...	ambience	no	positive
+the food was definitely good, but when all was said and done, i just couldn't justify it for the price (including 2 drinks, $100/person)...	food	yes	positive
+the food was definitely good, but when all was said and done, i just couldn't justify it for the price (including 2 drinks, $100/person)...	price	yes	negative
+i've come here for casual lunches as well as for a friend's birthday and i always enjoy myself.	misc	no	positive
+if you are a tequila fan you will not be disappointed.	food	no	positive
+great beer selection too, something like 50 beers.	food	no	positive
+after reading the great reviews, i invited a die-hard downtown friend of mine to join me at taste.	misc	no	neutral
+not to sound too negative but be wary of the delivary.	service	no	negative
+feels like family when we go there.	misc	no	positive
+i found the food to be just as good as its owner, da silvano, just much less expensive.	food	no	positive
+i found the food to be just as good as its owner, da silvano, just much less expensive.	price	no	positive
+i found the food to be just as good as its owner, da silvano, just much less expensive.	service	no	positive
+they have homemade pastas of all kinds -- i recommend the gnocchi -- yum!	food	no	positive
+my vegetable risotto was burnt, and infused totally in a burnt flavor.	food	no	negative
+what a pleasant surprise!	misc	no	positive
+the main draw of this place is the price.	price	no	positive
+how can hope to stay in business with service like this?	service	no	negative
+but dinner here is never disappointing, even if the prices are a bit over the top.	food	yes	positive
+but dinner here is never disappointing, even if the prices are a bit over the top.	price	yes	negative
+not only did they have amazing, sandwiches, soup, pizza etc, but their homemade sorbets are out of this world!	food	no	positive
+the homemade guacamole, the unbelievable entree, and thee most amazing deserts.	food	no	positive
+the sushi is reasonably priced and fresh.	food	no	positive
+the sushi is reasonably priced and fresh.	price	no	positive
+it's no-fuss, fast and delicious.	food	no	positive
+it's no-fuss, fast and delicious.	service	no	positive
+it's no-fuss, fast and delicious.	ambience	no	positive
+save room for deserts - they're to die for.	food	no	positive
+best things to order are from the grill (churrasco and ribs).	food	no	positive
+the traditional italian items are great - cheap and served in a cozy setting.	food	no	positive
+the traditional italian items are great - cheap and served in a cozy setting.	price	no	positive
+the traditional italian items are great - cheap and served in a cozy setting.	ambience	no	positive
+whether your choose the iced blended mocha or the hot white mocha you are sure to be extremely happy.	food	no	positive
+last tuesday for a late lunch with a friend.	misc	no	neutral
+it was delish and i didn't feel bad eating it.	food	no	positive
+another friend had to ask 3 times for parmesan cheese.	service	no	negative
+our waitress had apparently never tried any of the food, and there was no one to recommend any wine.	service	no	negative
+the service was a bit slow and the portions are a bit small so if you are hungry and in a rush, this is not the place for you.	service	no	negative
+the service was a bit slow and the portions are a bit small so if you are hungry and in a rush, this is not the place for you.	food	no	negative
+the service was a bit slow and the portions are a bit small so if you are hungry and in a rush, this is not the place for you.	misc	no	negative
+no doubt the next time we want to go out for a special occasion or are entertaining guests from out of town, spirit and bateaux will be our destination.	misc	no	positive
+i would recommend jewel bako if you want to feel like you were kicked in the groin and had to pay for it too.	misc	no	negative
+the ambiance was pretty cool, but not worth the hassle.	ambience	yes	conflict
+the ambiance was pretty cool, but not worth the hassle.	misc	yes	negative
+the unfortunate lady next to us thought she had ordered a salad (including asking for salad dressing) and was instead given a quesedilla.	service	no	negative
+el nidos one of the best restaurants in new york which i've ever been to, has a great variety of tasty, mouth watering pizza's.	food	no	positive
+el nidos one of the best restaurants in new york which i've ever been to, has a great variety of tasty, mouth watering pizza's.	misc	no	positive
+the service was pretty poor all around, the food was well below average relative to the cost, and outside there is a crazy bum who harasses every customer who leaves the place.	service	no	negative
+the service was pretty poor all around, the food was well below average relative to the cost, and outside there is a crazy bum who harasses every customer who leaves the place.	food	no	negative
+the service was pretty poor all around, the food was well below average relative to the cost, and outside there is a crazy bum who harasses every customer who leaves the place.	price	no	negative
+the service was pretty poor all around, the food was well below average relative to the cost, and outside there is a crazy bum who harasses every customer who leaves the place.	misc	no	negative
+although i moved uptown i try to stop in as often as possible for the great cheap food and to pay the friendly staff a visit.	food	no	positive
+although i moved uptown i try to stop in as often as possible for the great cheap food and to pay the friendly staff a visit.	price	no	positive
+although i moved uptown i try to stop in as often as possible for the great cheap food and to pay the friendly staff a visit.	service	no	positive
+i had to wait for my friend at the bar for a few minutes	misc	no	neutral
+chef vincenzo, always there if you need him, is a real talent and a real roman.	food	no	positive
+if you're looking to taste some great indian food and want good service, definitely visit curry leaf.	food	no	positive
+if you're looking to taste some great indian food and want good service, definitely visit curry leaf.	service	no	positive
+you must try odessa stew or rabbit stew; salads-all good; and kompot is soo refreshing during the hot summer day (they make it the way my mom does, reminds me of home a lot).	food	no	positive
+you must try odessa stew or rabbit stew; salads-all good; and kompot is soo refreshing during the hot summer day (they make it the way my mom does, reminds me of home a lot).	misc	no	positive
+my daughter and i left feeling satisfied (not stuffed) and it felt good to know we had a healthy lunch.	food	no	positive
+i'm almost tempted to give this place a bad review so i can keep the crowds away...been going there on and off for a year now and it's really my fave hang out in the city.	misc	no	positive
+when she complained, the waitress said, sorry.	service	no	neutral
+the quality of the meat was on par with your local grocery store.	food	no	negative
+they specialize in smoothies and fresh juices.	food	no	positive
+it first came well done, and i politely sent it back.	food	no	negative
+i recommend the black roasted codfish, it was the best dish of the evening.	food	no	positive
+the manager then told us we could order from whatever menu we wanted but by that time we were so annoyed with the waiter and the resturant that we let and went some place else.	service	no	negative
+the manager then told us we could order from whatever menu we wanted but by that time we were so annoyed with the waiter and the resturant that we let and went some place else.	misc	no	negative
+in mi burrito, here was nothing but dark chicken that had that cooked last week and just warmed up in a microwave taste.	food	no	negative
+during busy hrs, i recommend that you make a reservation.	misc	no	neutral
+don't waste your time or your money.	misc	no	negative
+it's good but, like the movie is never as good as the book, this is same analogy.	misc	no	conflict
+it was a very warm experience.	misc	no	positive
+i went to common stock for brunch and i was so impressed.	misc	no	positive
+now called nikki sushi, sushi is ok.	food	no	neutral
+the food is also outstanding and is served quite quickly.	food	no	positive
+the food is also outstanding and is served quite quickly.	service	no	positive
+i just have nothing to say about this place that is negative except that it's not a cheap night out...but it's so worth it.	price	yes	conflict
+i just have nothing to say about this place that is negative except that it's not a cheap night out...but it's so worth it.	misc	yes	positive
+from the erbazzone emiliana to the mostarda on the cheese plate, the dishes at this restaurant are all handled with delicate care.	food	no	positive
+the food is delicious and the bar has a great vibe.	food	no	positive
+the food is delicious and the bar has a great vibe.	ambience	no	positive
+expectations were real hi reading the '10's'.	misc	no	neutral
+there's candlelight and music.	ambience	no	neutral
+it's nice to find a place that is open 24 hours (especially in downtown brooklyn).	misc	no	positive
+simple healthy unglamorous food cheap.	food	no	positive
+simple healthy unglamorous food cheap.	price	no	positive
+it was such a fantastic dining experience, that i returned again the same week.	misc	no	positive
+to be fair, the food still is good and the service is quick and attentative even though its usually very busy.	food	no	positive
+to be fair, the food still is good and the service is quick and attentative even though its usually very busy.	service	no	positive
+the place is absolutely adorable and the food is delicious.	ambience	no	positive
+the place is absolutely adorable and the food is delicious.	food	no	positive
+i ordered the chicken teriyaki and my husband got garlic shrimp.	food	no	neutral
+i've had better japanese food at a mall food court.	food	no	negative
+the staff members are extremely friendly and even replaced my drink once when i dropped it outside.	service	no	positive
+cool atmosphere but such a let down.	ambience	yes	positive
+cool atmosphere but such a let down.	misc	yes	negative
+the sashimi portion are big enough to appease most people, but i didn't like the fact they used artifical lobster meat.	food	no	conflict
+they have wheat crusted pizza made with really fresh and yummy ingredients.	food	no	positive
+had a lovely dinner in this dedicated seafood joint, food was well-prepared and -presented and the service was pleasant and prompt.	food	no	positive
+had a lovely dinner in this dedicated seafood joint, food was well-prepared and -presented and the service was pleasant and prompt.	service	no	positive
+the icing made this cake, it was fluffy, not ultra sweet, creamy and light.	food	no	positive
+finally let into the store 5 at a time, to buy expensive slices from a harried staff.	price	no	negative
+finally let into the store 5 at a time, to buy expensive slices from a harried staff.	service	no	negative
+finally let into the store 5 at a time, to buy expensive slices from a harried staff.	misc	no	negative
+we ended up having to just leave because we were essentially being ignored by the wait staff--even though the rest of the restaurant was largely empty.	service	no	negative
+we ended up having to just leave because we were essentially being ignored by the wait staff--even though the rest of the restaurant was largely empty.	misc	no	negative
+the wine list is extensive, well priced and covers alot of regions.	food	no	positive
+the wine list is extensive, well priced and covers alot of regions.	price	no	positive
+go here if you want fresh and tasty salads of any type you can imagine.	food	no	positive
+everything about this place is adorable - even the bathroom!	misc	no	positive
+everything about this place is adorable - even the bathroom!	ambience	no	positive
+speedy delivers, great food, decent prices, and friendly service combine to ensure an enjoyable repast.	service	no	positive
+speedy delivers, great food, decent prices, and friendly service combine to ensure an enjoyable repast.	food	no	positive
+speedy delivers, great food, decent prices, and friendly service combine to ensure an enjoyable repast.	price	no	positive
+they have waiters on the sidewalk trying to pull you in which made us suspicious.	misc	no	negative
+it was our only opportunity to visit and wanted an authentic italian meal.	misc	no	neutral
+it took 100 years for parisi to get around to making pizza (at least i don't think they ever made it before this year)...but it was worth the wait.	food	yes	positive
+it took 100 years for parisi to get around to making pizza (at least i don't think they ever made it before this year)...but it was worth the wait.	misc	yes	conflict
+i asked for a simple medium rare steak.	food	no	neutral
+generously garnished, organic grilled burgers are the most popular dish, but the jerusalem market-style falafel wraps and mediterranean salads--layered with beets, goat cheese and walnuts--are equally scrumptious.	food	no	positive
+probably my worst dining experience in new york, and i'm a former waiter so i know what i'm talking about.	misc	no	negative
+result (red velvet): great texture, soft and velvety, nice hint of cocoa.	food	no	positive
+ask for the round corner table next to the large window.	misc	no	positive
+their twist on pizza is heatlhy, but full of flavor.	food	no	positive
+the lack of ac and the fact that there are a million swarming bodies (although everyone is polite and no one is pushing) is a slight turn off.	ambience	yes	negative
+the lack of ac and the fact that there are a million swarming bodies (although everyone is polite and no one is pushing) is a slight turn off.	misc	yes	conflict
+i love the little pie company as much as anyone else who has written reviews, but must discourage anyone from visiting the grand central location due to their rude service from two sales people.	misc	yes	conflict
+i love the little pie company as much as anyone else who has written reviews, but must discourage anyone from visiting the grand central location due to their rude service from two sales people.	service	yes	negative
+unfortunately, unless you live in the neighborhood, it's not in a convenient location but is more like a hidden treasure.	misc	no	conflict
+didn't seem like any effort was made to the display and quality of the food.	food	no	negative
+the food--though mostly deep-fried--is simple and satisfying.	food	no	positive
+we live in the neighborhood and have been going there twice a week since the day they first opened.	misc	no	neutral
+glechik might be way too tiny for a restaurant by russian standards, but it is cozy and the food is simply great.	ambience	yes	conflict
+glechik might be way too tiny for a restaurant by russian standards, but it is cozy and the food is simply great.	food	yes	positive
+the food was excellent - authentic italian cuisine made absolutely fresh.	food	no	positive
+at night the atmoshere changes turning into this hidden jewel that is waiting to be discovered.	ambience	no	positive
+the other times i've gone it's romantic date heaven, you can walk in get a booth by the windows, be treated like a vip in a not-crowded place, with great food and service.	ambience	no	positive
+the other times i've gone it's romantic date heaven, you can walk in get a booth by the windows, be treated like a vip in a not-crowded place, with great food and service.	food	no	positive
+the other times i've gone it's romantic date heaven, you can walk in get a booth by the windows, be treated like a vip in a not-crowded place, with great food and service.	service	no	positive
+i would only go for the coffee which is way better than starbucks or the like.	food	no	positive
+i used to be a regular costumer at pongal until dosa hut opened right next door to it.	misc	no	neutral
+somewhat disappointing wine list (only new vintages.	food	no	negative
+both were very good, but nothing you couldn't get at similar restaurant.	misc	no	conflict
+if your looking for nasty high priced food with a dash of ghetto scenery cheap bx a$$ this is the place to be!!	food	no	negative
+if your looking for nasty high priced food with a dash of ghetto scenery cheap bx a$$ this is the place to be!!	price	no	negative
+if your looking for nasty high priced food with a dash of ghetto scenery cheap bx a$$ this is the place to be!!	ambience	no	negative
+new hamburger with special sauce is ok - at least better than big mac!	food	no	conflict
+perfectly al dente pasta, not drowned in sauce -- generous portions.	food	no	positive
+i can understand the prices if it served better food, like some chinese restaurants in midtown/uptown area.	price	no	negative
+i can understand the prices if it served better food, like some chinese restaurants in midtown/uptown area.	food	no	negative
+service was awful - mostly because staff were overwhelmed on a saturday night.	service	no	negative
+service was awful - mostly because staff were overwhelmed on a saturday night.	misc	no	negative
+to the owners; good job guys, this place is a keeper!	misc	no	positive
+and the owner is simply lovely and friendly.	service	no	positive
+this little place is wonderfully warm welcoming.	ambience	no	positive
+perfect for a quick meal.	misc	no	positive
+has the warmth of a family local yet it is a great place to watch sporting events.	ambience	no	positive
+the service was great, and they have a whole great deal for birthdays.	service	no	positive
+the service was great, and they have a whole great deal for birthdays.	price	no	positive
+the staff is 100% italian and the food is as authentic as it gets.	service	no	positive
+the staff is 100% italian and the food is as authentic as it gets.	food	no	positive
+my only complaint might be the fortune cookies - i've never had a cookie predict bad luck for me before i visited kar.	misc	no	negative
+good for a quick sushi lunch.	misc	no	positive
+have a mojito and sit in the back patio.	food	no	positive
+have a mojito and sit in the back patio.	ambience	no	positive
+the service was dreadfully slow (the place was only half full) and a smile would have been nice...	service	no	negative
+i went this past saturday and had a excellent meal of consisting of a braised lamb shank with mashed potatoes.	food	no	positive
+the waitress came by to pick up the soy sauce while we were eating our lunch!!!!!	service	no	negative
+so we sat at the bar, the bartender didn't seem like he wanted to be there.	service	no	negative
+i reccomend the fried pork dumplings, the orange chicken/beef, and the fried rice.	food	no	positive
+you will not be dissapointed by any of the choices in the menu.	food	no	positive
+the french fries -- with the kalmata dip were terrific!	food	no	positive
+would you ever believe that when you complain about over an hour wait, when they tell you it will be 20-30 minutes, the manager tells the bartender to spill the drinks you just paid for?	service	no	negative
+the boutique selection of wines covers a wide variety without being imposeing.	food	no	neutral
+if you're lucky and there's not a private party going on back there, you'll get a chance to really chill out.	ambience	no	conflict
+they also have a great assortment of wraps if your not in the mood for traditional mediterranean fare.	food	no	positive
+fresh veggies, all sorts of middle eastern spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious.	food	no	positive
+disappointingly, their wonderful saketini has been taken off the bar menu.	food	no	conflict
+in short the black sheep distinguishes itself from the midtown pub herd with a look that's a mix of sports-bar butch and ornate kitsch.	ambience	no	negative
+i would definitely go back -- if only for some of those exotic martinis on the blackboard.	food	no	positive
+i would definitely go back -- if only for some of those exotic martinis on the blackboard.	misc	no	positive
+they are located off the beaten path but are certainly worth the trip.	misc	no	conflict
+then she made a fuss about not being able to add 1 or 2 chairs on either end of the table for additional people.	service	yes	negative
+then she made a fuss about not being able to add 1 or 2 chairs on either end of the table for additional people.	misc	yes	positive
+the happy hour is so cheap, but that does not reflect the service or the atmosphere.	price	no	positive
+the happy hour is so cheap, but that does not reflect the service or the atmosphere.	service	no	positive
+the happy hour is so cheap, but that does not reflect the service or the atmosphere.	ambience	no	positive
+after waiting for almost an hour, the waiter brusquely told us he'd forgotten to give the kitchen our order.	service	no	negative
+with all the mundane or mediocre places on 8th avenue it is nice to have one that is a step above in quaility and atmosphere.	ambience	no	positive
+with all the mundane or mediocre places on 8th avenue it is nice to have one that is a step above in quaility and atmosphere.	misc	no	positive
+a mix of students and area residents crowd into this narrow, barely there space for its quick, tasty treats at dirt-cheap prices.	ambience	yes	negative
+a mix of students and area residents crowd into this narrow, barely there space for its quick, tasty treats at dirt-cheap prices.	food	yes	positive
+a mix of students and area residents crowd into this narrow, barely there space for its quick, tasty treats at dirt-cheap prices.	price	yes	positive
+give it a try, menu is typical french but varied.	food	yes	neutral
+give it a try, menu is typical french but varied.	misc	yes	positive
+it gets crowded at lunchtime but there are lots of seats in back and everyone who works there is so nice.	ambience	yes	conflict
+it gets crowded at lunchtime but there are lots of seats in back and everyone who works there is so nice.	service	yes	positive
+but for the value, it was a great affordable spot to enjoy a fun night out with small group.	price	no	positive
+but for the value, it was a great affordable spot to enjoy a fun night out with small group.	ambience	no	positive
+the negative reviews on city search are probably from jealous competing restaurants who realize they can't compete with temple's entire positive attitude about the proper way to treat their customers and deliver top quality food.	service	no	positive
+the negative reviews on city search are probably from jealous competing restaurants who realize they can't compete with temple's entire positive attitude about the proper way to treat their customers and deliver top quality food.	food	no	positive
+we ordered a glass of wine and were finished eating and paying before the wine came.	service	yes	negative
+we ordered a glass of wine and were finished eating and paying before the wine came.	food	yes	neutral
+it was good, but none of the flavors wow.	food	no	conflict
+overall, this is a nice place to take a few friends to hang out at and the service is excellent.	service	no	positive
+overall, this is a nice place to take a few friends to hang out at and the service is excellent.	ambience	no	positive
+food is excellent quality for a good restaurant price.	food	no	positive
+food is excellent quality for a good restaurant price.	price	no	positive
+actually, everyone who worked there seemed to be annoyed.	misc	no	negative
+for about eleven bucks you get a gigantic burrito (or tacos), margarita, and dessert.	price	no	positive
+for about eleven bucks you get a gigantic burrito (or tacos), margarita, and dessert.	food	no	positive
+the space is traditional in feel.	ambience	no	neutral
+the restaurant was completely empty, but she gave me a dirty look and asked, no reservations?	service	no	negative
+the food was mediocre to be kind - the interior is small and average - the owners are a tag-team of unpleasantries - so rude and snotty i actually let out a hearty guffaw whilst dining.	food	no	negative
+the food was mediocre to be kind - the interior is small and average - the owners are a tag-team of unpleasantries - so rude and snotty i actually let out a hearty guffaw whilst dining.	ambience	no	negative
+the food was mediocre to be kind - the interior is small and average - the owners are a tag-team of unpleasantries - so rude and snotty i actually let out a hearty guffaw whilst dining.	service	no	negative
+good service, great food, good value, and never have to wait in line!	service	no	positive
+good service, great food, good value, and never have to wait in line!	food	no	positive
+good service, great food, good value, and never have to wait in line!	price	no	positive
+offerings like hot cakes and the egg mcmuffin sandwich are available for breakfast.	food	no	neutral
+i have been going to this restaurant for years, in the past the service was average and the food inconsistant.	service	yes	neutral
+i have been going to this restaurant for years, in the past the service was average and the food inconsistant.	food	yes	negative
+the music was fascinating, but left room for conversation, and the bartender made superb drinks.	ambience	no	positive
+the music was fascinating, but left room for conversation, and the bartender made superb drinks.	food	no	positive
+rice dishes and noodle dishes rarely exceed $5 and add on a refreshing ice drink for $2 and you're set for the night!	food	no	positive
+rice dishes and noodle dishes rarely exceed $5 and add on a refreshing ice drink for $2 and you're set for the night!	price	no	positive
+cuisine is billed as asian fusion - doesn't meet the bill.	price	no	negative
+cuisine is billed as asian fusion - doesn't meet the bill.	food	no	negative
+creative dishes like king crab salad with passion fruit vinaigrette and fettuccine with grilled seafood in a rosemary-orange sauce are unexpected elements on an otherwise predictable bistro menu.	food	no	positive
+dishes denoted as "roy's classics" (marked on the menu with asterisks) are tried-and-true recipes, such as macadamia-crusted mahi mahi, or subtly sweet honey-mustard beef short ribs.	food	no	positive
+the cold sesame noodles, which are a freebie when you order $10+, are delectable.	food	no	positive
+the cold sesame noodles, which are a freebie when you order $10+, are delectable.	price	no	positive
+i came to fresh expecting a great meal, and all i got was marginally so-so food served in a restaurant that was just so freezing we couldn't enjoy eating.	ambience	no	negative
+i came to fresh expecting a great meal, and all i got was marginally so-so food served in a restaurant that was just so freezing we couldn't enjoy eating.	food	no	negative
+the lone argentine chorizo appetizer at $8.95 was a heavy fennel flavored italian sausage like the ones that sell for $2.99/lb at the store.	price	no	negative
+the lone argentine chorizo appetizer at $8.95 was a heavy fennel flavored italian sausage like the ones that sell for $2.99/lb at the store.	food	no	negative
+i went to swiftys with some friends of the family and we had a very nice dinner, but nothing amazing.	misc	no	conflict
+best chinese on the upper east, prompt delivery, good value.	service	no	positive
+best chinese on the upper east, prompt delivery, good value.	price	no	positive
+best chinese on the upper east, prompt delivery, good value.	misc	no	positive
+most of the sandwiches are made with soy mayonaise which is actually pretty good.	food	no	positive
+i went in one day asking for a table for a group and was greeted by a very rude hostess.	service	no	negative
+it's worthwhile to take a cab to chelsea just for an awesome dinner at my chelsea.	misc	no	positive
+not only is the food authentic, but the staff here are practically off-the-boat, they are young and hip and know what they are doing when it comes to food and wine.	food	no	positive
+not only is the food authentic, but the staff here are practically off-the-boat, they are young and hip and know what they are doing when it comes to food and wine.	service	no	positive
+it has good music, nice tapas, an interesting selection of wines (primarily spanish) and a lowkey hip neighborhood clientele.	ambience	no	positive
+it has good music, nice tapas, an interesting selection of wines (primarily spanish) and a lowkey hip neighborhood clientele.	food	no	positive
+the food is great, i love their dumplings, cold sesame noodles, chicken and shrimp dishs.	food	no	positive
+and the food, well the food will keep you coming back.	food	no	positive
+waiting three hours before getting our entrees was a treat as well.	service	no	negative
+it's the conversations that make this a fun place to be.	ambience	no	positive
+my gf's duck confitte was very solid as well, although i have little base of reference.	food	no	positive
+the wine list was superb, our tapas delightful, and the quiet atmosphere perfect for good conversation.	food	no	positive
+the wine list was superb, our tapas delightful, and the quiet atmosphere perfect for good conversation.	ambience	no	positive
+you can eat gourmet food at a fast food price.	food	no	positive
+you can eat gourmet food at a fast food price.	price	no	positive
+i've eaten at all three locations and i always love, love the food, the service is always wonderful and the prices are really reasonable.	food	no	positive
+i've eaten at all three locations and i always love, love the food, the service is always wonderful and the prices are really reasonable.	service	no	positive
+i've eaten at all three locations and i always love, love the food, the service is always wonderful and the prices are really reasonable.	price	no	positive
+not because i was pregnant, but the food here is always delicious.	food	no	positive
+had a great meal there this weekend before heading to the movies!	food	no	positive
+we had a birthday party here recently and the food and service was amazing.	food	no	positive
+we had a birthday party here recently and the food and service was amazing.	service	no	positive
+the dinner menu offers a variety of great entrees, including fresh seafood and huge steaks, there's also a couple of non-meat alternatives.	food	no	positive
+this place has the strangest menu and the restaurants tries too hard to make fancy food.	food	no	negative
+the appetizers are ok, but the service is slow.	food	yes	neutral
+the appetizers are ok, but the service is slow.	service	yes	negative
+the food - not worth the price.	price	no	negative
+the food - not worth the price.	food	no	negative
+what can you say about a place where the waitress brings out the wrong entree, then verbally assaults your 80 year old grandmother and gives her lip about sending it back (which she did politely, by the way).	service	no	negative
+the prices are not terrible.	price	no	positive
+15% gratuity automatically added to the bill.	price	no	negative
+the halibut cheek appetizer came with a generous portion of foie gras, but that's about the only positive thing i can say about the meal.	food	no	conflict
+food is excellent and they also have empenadas and plaintains which are good for an afternoon snack.	food	no	positive
+both a number of the appetizer and pasta specials were amazing.	food	no	positive
+all-time favorites include the big mac, chicken mcnuggets, filet-o-fish sandwich and mcdonald's famous french fries; lighter options like entree-sized salads are also available.	food	no	positive
+although somewhat loud, the noise was minimally intrusive.	ambience	no	conflict
+it's a basic pizza joint, not much to look at, but the pizza is what i go for.	ambience	yes	neutral
+it's a basic pizza joint, not much to look at, but the pizza is what i go for.	food	yes	positive
+tables are close, so you better be comfortable bumping elbows with other patrons.	ambience	no	negative
+was her monday for lunch - was working on a film in the area - and found this rare jewel.	misc	no	positive
+not too much so, but enough that there's a great scene.	ambience	no	positive
+you feel like you made it to new york when you eat here.	misc	no	positive
+we'd walked by it dozens of times and finally settled on a monday night.	misc	no	neutral
+sum it: don't read the '10's' reviews, try it to judge for yourself so you won't have as hi expectations, then you'll be sure to enjoy it.	misc	no	positive
+we went there, no one greeted us.	service	no	negative
+dug the blue bar area too.	ambience	no	positive
+we spent so much time getting elbowed around while we waited we left.	ambience	no	negative
+i got the opportunity to dine at your establishment again a few weeks ago, i was in your upstrairs dining area.	misc	no	neutral
+meat-phobes are in luck with the extraordinary veggie burger, made from a distinctive blend of chickpeas, carrots and other vegetables and spices.	food	no	positive
+at peak times, the restaurant is overcrowded and tables are uncomfortably close.	ambience	no	negative
+the service was on point - what else you would expect from a ritz?	service	no	positive
+menus feature seasonal picks, like sweet corn-foie gras brulee.	food	no	neutral
+innovations are just as assured, from the simple carinthia cheese ravioli with wild mushrooms to the caviar-topped sturgeon, beautifully matched with a bright green spinach-vodka sauce.	food	no	positive
+and these are not small, wimpy fast food type burgers - these are real, full sized patties.	food	no	positive
+there restaurant is very casual, but perfect for lunch, and their delivery service is always very fast.	ambience	no	positive
+there restaurant is very casual, but perfect for lunch, and their delivery service is always very fast.	service	no	positive
+chinatown definitely has better quality with cheaper prices.	food	no	positive
+chinatown definitely has better quality with cheaper prices.	price	no	positive
+i had to flag down a third staff person for a fork... so now it's goodbye little rude pie company.	service	no	negative
+i have been in nyc for over 10 years and could not find this delicacy east of the hudson .	misc	no	positive
+go with the specials, and stay away from the salmon. 	food	no	conflict
+the pastas were pretty good.	food	no	positive
+atmosphere is a bore.	ambience	no	negative
+the decor is what initially got me in the door.	ambience	no	positive
+the wait staff was very attentive and polite.	service	no	positive
+great restaurant, and even greater food!	food	no	positive
+great restaurant, and even greater food!	misc	no	positive
+the dishes are remarkably tasty and such a cozy and intimate place!	food	no	positive
+the dishes are remarkably tasty and such a cozy and intimate place!	ambience	no	positive
+save room for the desserts! ;-)	food	no	positive
+i love the simplicity and respect which was given to the food, as well the staff was freindly and knowledgable.	food	no	positive
+i love the simplicity and respect which was given to the food, as well the staff was freindly and knowledgable.	service	no	positive
+service was good and so was the atmosphere.	service	no	positive
+service was good and so was the atmosphere.	ambience	no	positive
+my date and i both ordered the branzini and both felt the fish was very average.	food	no	negative
+we were there march 7 and found maison very nice.	misc	no	positive
+the food was good, the service prompt, and the price very reasonable. 	food	no	positive
+the food was good, the service prompt, and the price very reasonable. 	service	no	positive
+the food was good, the service prompt, and the price very reasonable. 	price	no	positive
+wonderful menu, warm inviting ambiance, great service the food keeps me coming back!	food	no	positive
+wonderful menu, warm inviting ambiance, great service the food keeps me coming back!	ambience	no	positive
+wonderful menu, warm inviting ambiance, great service the food keeps me coming back!	service	no	positive
+great food, good wine and an excellent host.	food	no	positive
+great food, good wine and an excellent host.	service	no	positive
+went there last night with my coworker.	misc	no	neutral
+pizzas were excellent in addition to appetizers and main courses.	food	no	positive
+definitely try the calamari, any pasta, or even the sliced steak entree.	food	no	positive
+the caeser salad was great.	food	no	positive
+the fried calamari was even better!	food	no	positive
+the atmosphere was nice but it was a little too dark.	ambience	no	conflict
+the food was good overall. 	food	no	positive
+the food was outstanding and the service was tops.	food	no	positive
+the food was outstanding and the service was tops.	service	no	positive
+the portions are very large and the service is fantastic!!	food	no	positive
+the portions are very large and the service is fantastic!!	service	no	positive
+i recomend the chicken milanese.	food	no	positive
+excellent tapas at great prices, romantic, small but not overly crowed, excellent	food	no	positive
+excellent tapas at great prices, romantic, small but not overly crowed, excellent	price	no	positive
+excellent tapas at great prices, romantic, small but not overly crowed, excellent	ambience	no	positive
+the service is a quite slow, but friendly.	service	no	conflict
+the chocolate raspberry cake is heavenly- not too sweet, but full of flavor.	food	no	positive
+our waiter was helpful and charming, the food was perfect, and the wine was good, too.	service	no	positive
+our waiter was helpful and charming, the food was perfect, and the wine was good, too.	food	no	positive
+alias is warm and cozy and you don't get that squished-in feeling you get at 71 clinton.	ambience	no	positive
+i have never had a bad meal(or bad service )@ pigalle.	food	no	positive
+i have never had a bad meal(or bad service )@ pigalle.	service	no	positive
+best hot dogs in the tri-state area.	food	no	positive
+this is a typical example of an establishment in which its owners do not know anything about the restaurant business!	misc	no	negative
+i would not recommend meet at all, it is a rip off all the way from the time to step in!	misc	no	negative
+went there for a special celebration.	misc	no	neutral
+the restaurant was quiet and intimate.	ambience	no	positive
+the service was very attentive and very generous.	service	no	positive
+we had tons of great food, wine, and desserts.	food	no	positive
+really lovely dining experience in the midst of buzzing midtown area.	misc	no	positive
+ok, i've been to dumont a few times now.	misc	no	neutral
+the food really isn't very good and the service is terrible.	food	no	negative
+the food really isn't very good and the service is terrible.	service	no	negative
+maybe it's that most of dumont's patrons are younger and have lower expectations, but i cannot recommend dumont.	misc	no	negative
+not only do they have the best escargot in town,they always try to accomodate our toddler.	food	no	positive
+not only do they have the best escargot in town,they always try to accomodate our toddler.	service	no	positive
+i've been to sotto voce several time, and i have to say this one place that hits the nail right on the head ever time!	misc	no	positive
+between my guest and i, we sampled at least 80% of the menu, and they were all hits.	food	no	positive
+the deco and ambiance was really romantic.	ambience	no	positive
+this is the best unknown restaurant in and around new york.	misc	no	positive
+just go in and sample the greatest french food west of daniel.	food	no	positive
+for someone who used to hate indian food, baluchi's has changed my mid.	food	no	positive
+finally a curry that i can eat, enjoy and not suffer from gastritis from 3 hours later.	food	no	positive
+all are great - poori, naan, paratha all fresh.	food	no	positive
+try the homemade breads.	food	no	positive
+this place has beautiful sushi, and it's delicious cheap. 	food	no	positive
+this place has beautiful sushi, and it's delicious cheap. 	price	no	positive
+it also has lots of other korean dishes that are affordable and just as yummy.	food	no	positive
+it also has lots of other korean dishes that are affordable and just as yummy.	price	no	positive
+i went for restaurant week and ordered off the prix fixe menu	food	no	neutral
+not only was the waiter efficient and courteous, but also extremely helpful. 	service	no	positive
+it took a bigger bite from my wallet than my appetite - i would not reccomend this to anyone that i would want to talk to me again!!	price	no	negative
+it took a bigger bite from my wallet than my appetite - i would not reccomend this to anyone that i would want to talk to me again!!	food	no	negative
+it took a bigger bite from my wallet than my appetite - i would not reccomend this to anyone that i would want to talk to me again!!	misc	no	negative
+this place is classy, chic, the service is warm and hospitable, and the food is outstanding.	ambience	no	positive
+this place is classy, chic, the service is warm and hospitable, and the food is outstanding.	service	no	positive
+this place is classy, chic, the service is warm and hospitable, and the food is outstanding.	food	no	positive
+i read about this place in time out magazine.	misc	no	neutral
+it's a great find in astoria.	misc	no	positive
+great burgers, grilled cheeses and french fries.	food	no	positive
+the yellowfin tuna and calf's liver are my favorites!	food	no	positive
+sushi so fresh that it crunches in your mouth.	food	no	positive
+but make sure you have enough room on your credit card as the bill will leave a big dent in your wallet.	price	no	negative
+despite the 5th ave address there are no frills whick i also love.	ambience	no	positive
+they bring a sauce cart up to your table and offer you up to 7 or 8 choices of sauces for your steak (i tried them all).	food	no	positive
+not only was the sushi fresh, they also served other entrees allowed each guest something to choose from and we all left happy (try the duck!	food	no	positive
+good variety but nothing surprising.	food	no	conflict
+after i paid for my purchase, i noticed they had not given me utensils so i could eat my pie.	service	no	negative
+likewise if you like really thin crust or really big slices then nick and joe's may not be your favorite.	food	no	negative
+it's always quiet because it's awful.	misc	no	negative
+no green beans, no egg, no anchovy dressing, no nicoise olives, no red onion.	food	no	negative
+build a meal with side orders like amazin' greens salads, buffalo chicken kickers and cinna stix.	food	no	neutral
+thick fries, meaty chili and stuffed baked potatoes round out a menu that includes a cool, ultra-thick chocolate frosty.	food	no	positive
+i always find myself asking the waiter to make something bland and different than what is on the menu.	food	no	neutral
+good cake but: it was not the best cake i've ever had, and definately not worth standing outside on the sidewalk being herded like cattle by indifferent and overworked employees.	food	yes	conflict
+good cake but: it was not the best cake i've ever had, and definately not worth standing outside on the sidewalk being herded like cattle by indifferent and overworked employees.	service	yes	negative
+the closest that i got was the cherry marscapone, but they were out of it that day.	food	no	neutral
+the homage to india is most evident in the delectable roti canai appetizer, a fried pancake served with pungent curry dipping sauce, while the mango chicken offers a surprisingly sophisticated, fresh take on sweet-and-sour.	food	no	positive
+it doesn't look like much on the outside, but the minute you walk inside, it's a whole other atmosphere.	ambience	no	conflict
+i have to say the place was awesome.	misc	no	positive
+the ground chickpea soup we sampled as a starter tasted somewhat thin.	food	no	negative
+we requested they re-slice the sushi, and it was returned to us in small cheese-like cubes.	food	no	negative
+the service, however, is a peg or two below the quality of food (horrible bartenders), and the clientele, for the most part, are rowdy, loud-mouthed commuters (this could explain the bad attitudes from the staff) getting loaded for an ac/dc concert or a knicks game.	service	yes	negative
+the service, however, is a peg or two below the quality of food (horrible bartenders), and the clientele, for the most part, are rowdy, loud-mouthed commuters (this could explain the bad attitudes from the staff) getting loaded for an ac/dc concert or a knicks game.	food	yes	positive
+the service, however, is a peg or two below the quality of food (horrible bartenders), and the clientele, for the most part, are rowdy, loud-mouthed commuters (this could explain the bad attitudes from the staff) getting loaded for an ac/dc concert or a knicks game.	ambience	yes	negative
+if you're in the neighborhood, definitely stop by for a great meal.	food	no	positive
+unfortunately, with our show tickets, we didn't have time to sample any desserts.	food	no	neutral
+the restaurant could use a little paint, but all in all a great sushi place!	ambience	yes	conflict
+the restaurant could use a little paint, but all in all a great sushi place!	misc	yes	positive
+make more tables- perhaps a rooftop bar?	ambience	no	negative
+the decoration was feeling like we was on the cairo, actually the street is part of that adventure.	ambience	no	positive
+the decoration was feeling like we was on the cairo, actually the street is part of that adventure.	misc	no	positive
+although small, it has beautiful ambience, excellent food (the catfish is delicious - if ya don't mind it a lil salty) and attentive service.	ambience	no	positive
+although small, it has beautiful ambience, excellent food (the catfish is delicious - if ya don't mind it a lil salty) and attentive service.	food	no	positive
+although small, it has beautiful ambience, excellent food (the catfish is delicious - if ya don't mind it a lil salty) and attentive service.	service	no	positive
+i didn't go there for food so i can't comment.	misc	no	neutral
+my friends and i go once a week (minimum, we live in the area) and everytime can't resist walking out ready to burst.	misc	no	positive
+stick to the items the place does best, brisket, ribs, wings, cajun shrimp is good, not great.	food	no	positive
+hip boutiques and bars on ludlow add to the artsy, laid-back atmosphere at this israeli-style takeout and eat-in burger joint.	ambience	no	positive
+young neighborhood trendies graze at the counter during the day, while chic, art-house drinkers with heavy doses of the munchies pile in late at night.	ambience	no	neutral
+bring your date and a bottle of wine!	misc	no	neutral
+not only is this the best thai restaurant i have been to, but it also ranks as one of my favorite places to dine.	misc	no	positive
+don't be put off by another reviewers extremely negative review.	misc	no	positive
+my chelsea's impressive and creative menu includes modern, westernized japanese dishes such as foie gras unagi napolean, jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.	food	no	positive
+his food is excellent (and not expensive by nyc standards- no entrees over $30, most appetizers $12 to 14).	food	no	positive
+his food is excellent (and not expensive by nyc standards- no entrees over $30, most appetizers $12 to 14).	price	no	positive
+the food is consistant and good but how it got name best diner in manhattan is beyond me.	food	yes	positive
+the food is consistant and good but how it got name best diner in manhattan is beyond me.	misc	yes	conflict
+the pasta primavera was outstanding as well, lots of fresh veggies.	food	no	positive
+don't get me wrong - sushi was good, just not fantastic.	food	no	positive
+being puerto rican i know a thing or two about flan and this place serves one of the best (i hope mom doesn't read this!).	food	no	positive
+been to the one in brooklyn for over 25 years, now i dont have to go over the bridge for the best pizza ....hanx	food	no	positive
+had dinner here on a friday and the food was great.	food	no	positive
+had dinner here on a friday and the food was great.	misc	no	positive
+we recently spent new year's eve at the restaurant, and had a great experience, from the wine to the dessert menu.	food	no	positive
+we recently spent new year's eve at the restaurant, and had a great experience, from the wine to the dessert menu.	misc	no	positive
+highly recommended...  as stated, i haven't dined *in* the restaurant but stopped by there to pick up takeout and it seems a very relaxing place; also, the bar looks nice.	ambience	no	positive
+highly recommended...  as stated, i haven't dined *in* the restaurant but stopped by there to pick up takeout and it seems a very relaxing place; also, the bar looks nice.	misc	no	positive
+the ambiance was fine, a little loud but still nice and romantic.	ambience	no	positive
+but, the filet mignon was not very good at all cocktail hour includes free appetizers (nice non-sushi selection).	food	yes	conflict
+but, the filet mignon was not very good at all cocktail hour includes free appetizers (nice non-sushi selection).	price	yes	positive
+it took about 2 1/2 hours to be served our 2 courses.	service	no	negative
+who said go when the place is quiet during the day?	ambience	no	neutral
+can be a bit busy around peak times because of the size.	ambience	no	negative
+i was on jury duty, rode my bike up centre street on my lunch break and came across this great little place with awesome chicken tacos and hibiscus lemonade.	food	yes	positive
+i was on jury duty, rode my bike up centre street on my lunch break and came across this great little place with awesome chicken tacos and hibiscus lemonade.	ambience	yes	positive
+i was on jury duty, rode my bike up centre street on my lunch break and came across this great little place with awesome chicken tacos and hibiscus lemonade.	misc	yes	neutral
+good place to hang out during the day after shopping or to grab a simple soup or classic french dish over a glass of wine.	food	yes	neutral
+good place to hang out during the day after shopping or to grab a simple soup or classic french dish over a glass of wine.	misc	yes	positive
+very nice touch that very much fits the place.	ambience	no	positive
+however, there is just something so great about being outdoors, in great landscaping, enjoying a casual drink that makes going to this place worthwhile.	ambience	no	positive
+we were seated promptly in close proximity to the dance floor.	misc	no	neutral
+if you are here as a pre-show meal, hop in a cab and take the extra 10 minutes to go to the uptown location.	misc	no	neutral
+a plus was the good mix of people in their twenties that provided for great eye-candy while i was there.	ambience	no	positive
+the comments about fried foods is correct (below) but the other dishes, including the lamb entree and many of the salads (avocado shrimp) were quite good.	food	no	conflict
+it's best to go on a cold night with a close friend or a good book.	misc	no	neutral
+slow service, but when you're hanging around with groups of 10 or 20, who really notices?	service	yes	negative
+slow service, but when you're hanging around with groups of 10 or 20, who really notices?	misc	yes	conflict
+the sauce is excellent (very fresh) with dabs of real mozzarella.	food	no	positive
+don't ever bother - the drinks were awful, but it was the people who work there that really made this the worst experience at dining.	food	no	negative
+don't ever bother - the drinks were awful, but it was the people who work there that really made this the worst experience at dining.	service	no	negative
+the room is a little plain, but it's difficult to make such a small place exciting and i would not suggest that as a reason not to go.	ambience	no	negative
+prices even outside of restaurant week were great.	price	no	positive
+a small, outdoor eating area makes for a private, comfortable space to study alone or meet up with friends.	ambience	no	positive
+before the place didn't call my attention.	misc	no	neutral
+and all the [female] servers are cute too, which is always nice.	service	no	positive
+the best dessert, a chocolate and peanut butter tart, isn't particularly hawaiian, but it's a small world when it comes to sweets.	food	no	positive
+for an appetizer, their calamari is a winner.	food	no	positive
+satay is one of those favorite haunts on washington where the service and food is always on the money.	service	no	positive
+satay is one of those favorite haunts on washington where the service and food is always on the money.	food	no	positive
+after dinner i heard music playing and discovered that there is a lounge downstairs.	ambience	no	neutral
+but now that it's under new ownership and has been renovated, it looks great.	ambience	no	positive
+the room is a gorgeous, bi-level space and the long bar perfect for a drink.	ambience	no	positive
+now we moved out of the state and every visit to nyc includes a stop here.	misc	no	positive
+two complaints- their appetizer selection stinks, it would be nice to get some mozzarella sticks on the menu.	food	yes	negative
+two complaints- their appetizer selection stinks, it would be nice to get some mozzarella sticks on the menu.	misc	yes	conflict
+i don't remember what we had; nothing was memorable.	misc	no	negative
+it is bland and nothing extrodinary.	food	no	negative
+i was especially impressed during the bday party when the waitstaff went above and beyond in helping me decorate and bring out a bday cake as well as offering prompt and friendly service to a 15 person party.	service	no	positive
+the chicken and falafel platters were nondescript combinations with fresh leaf salad.	food	no	neutral
+every time i visit nyc, i come here.	misc	no	neutral
+i've been coming here regularly since it opened, about 2 years ago.	misc	no	neutral
+the atmosphere takes you to that place, the place many dream of.	ambience	no	positive
+several times and put up with the waiters' bad manners, knowing that their job isn't easy.	service	no	negative
+the service is great (maybe even borderline nagging but at least you get attention), the desserts are excellent and the coffee is so very good...	service	yes	conflict
+the service is great (maybe even borderline nagging but at least you get attention), the desserts are excellent and the coffee is so very good...	food	yes	positive
+we were seated next to a couple whose kitchen was being renovated and we agreed since we're all foodies who eat out a lot - that this wasn't a place we'd return to.	misc	no	negative
+they are served on focacchia bread and are to die for.	food	no	positive
+while the smoothies are a little big for me, the fresh juices are the best i have ever had!	food	no	conflict
+the food is just okay, and it's almost not worth going unless you're getting the pialla, which is the only dish that's really good.	food	no	conflict
+the guac is fresh, yet lacking flavor, we like to add our fresh salsa into it.	food	no	conflict
+the new menu has a few creative items,they were smart enough to keep some of the old favorites (but they raised the prices), the staff is friendly most of the time, but i must agree with the person that wrote about their favorite words: no, can't, sorry..., boy, they won't bend the rules for anyone.	food	yes	positive
+the new menu has a few creative items,they were smart enough to keep some of the old favorites (but they raised the prices), the staff is friendly most of the time, but i must agree with the person that wrote about their favorite words: no, can't, sorry..., boy, they won't bend the rules for anyone.	service	yes	conflict
+the new menu has a few creative items,they were smart enough to keep some of the old favorites (but they raised the prices), the staff is friendly most of the time, but i must agree with the person that wrote about their favorite words: no, can't, sorry..., boy, they won't bend the rules for anyone.	price	yes	negative
+the new menu has a few creative items,they were smart enough to keep some of the old favorites (but they raised the prices), the staff is friendly most of the time, but i must agree with the person that wrote about their favorite words: no, can't, sorry..., boy, they won't bend the rules for anyone.	misc	yes	conflict
+it' only open for lunch but the food is so good!	food	yes	positive
+it' only open for lunch but the food is so good!	misc	yes	neutral
+if you like seafood and/or greek food you will love this place though it is not limited to just these things.	food	no	positive
+" the menu includes pub fare--burgers, steaks and shepherds pie--and even a portabella lasagna for those black sheep known as "vegetarians.	food	no	neutral
+how can they survive serving mediocre food at exorbitant prices?!	food	yes	neutral
+how can they survive serving mediocre food at exorbitant prices?!	price	yes	negative
+the food was mediocre and the service was severely slow.	food	yes	neutral
+the food was mediocre and the service was severely slow.	service	yes	negative
+i have eaten here on a different occasion - the food is mediocre for the prices.	food	yes	neutral
+i have eaten here on a different occasion - the food is mediocre for the prices.	price	yes	negative
+i'm looking forward to going back soon and eventually trying most everything on the menu!	food	no	positive
+i'm looking forward to going back soon and eventually trying most everything on the menu!	misc	no	positive
+i just had my first visit to this place and can't wait to go back and slowly work my way through the menu.	misc	no	positive
+i asked repeatedly what the status of the meal was and was pretty much grunted at by the unbelievably rude waiter.	service	no	negative
+i asked repeatedly what the status of the meal was and was pretty much grunted at by the unbelievably rude waiter.	misc	no	negative
+i stopped by for some brunch today and had the vegan cranberry pancakes and some rice milk.	food	no	neutral
+weekends can get crowded, but still highly recommended.	ambience	no	conflict
+it gets very crowded so i would suggest that you get their early.	ambience	no	conflict
+sweet irish bartender is always happy and able to bring a smile to my friends a my face.	service	no	positive
+i always find myself sitting next to someone in the theatre industry- interesting to hear ideas hashed out while having a quick bite to eat.	misc	no	positive
+its good to go there for drinks if you don't want to get drunk because you'll be lucky if you can get one drink an hour the service is so bad.	service	no	negative
+anyway, the owner was fake.	service	no	negative
+owner is pleasant and entertaining.	service	no	positive
+i have never in my life sent back food before, but i simply had to, and the waiter argued with me over this.	food	no	negative
+i have never in my life sent back food before, but i simply had to, and the waiter argued with me over this.	service	no	negative
+although the restaurant itself is nice, i prefer not to go for the food.	ambience	yes	positive
+although the restaurant itself is nice, i prefer not to go for the food.	food	yes	negative
+creamy appetizers--taramasalata, eggplant salad, and greek yogurt (with cuccumber, dill, and garlic) taste excellent when on warm pitas.	food	no	positive

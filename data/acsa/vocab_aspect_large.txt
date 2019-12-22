@@ -1,0 +1,9 @@
+<unk>
+price
+food
+drinks
+ambience
+restaurant
+misc
+service
+location

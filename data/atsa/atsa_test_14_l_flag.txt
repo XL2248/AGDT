@@ -1,0 +1,654 @@
+boot time is super fast, around anywhere from 35 seconds to 1 minute.	boot time	no	positive
+tech support would not fix the problem unless i bought your plan for $150 plus.	tech support	no	negative
+set up was easy.	set up	no	positive
+did not enjoy the new windows 8 and touchscreen functions.	windows 8	no	negative
+did not enjoy the new windows 8 and touchscreen functions.	touchscreen functions	no	negative
+other than not being a fan of click pads (industry standard these days) and the lousy internal speakers, it's hard for me to find things about this notebook i don't like, especially considering the $350 price tag.	internal speakers	yes	negative
+other than not being a fan of click pads (industry standard these days) and the lousy internal speakers, it's hard for me to find things about this notebook i don't like, especially considering the $350 price tag.	price tag	yes	positive
+other than not being a fan of click pads (industry standard these days) and the lousy internal speakers, it's hard for me to find things about this notebook i don't like, especially considering the $350 price tag.	click pads	yes	negative
+no installation disk (dvd) is included.	installation disk (dvd)	no	neutral
+it's fast, light, and simple to use.	use	no	positive
+works well, and i am extremely happy to be back to an apple os.	works	no	positive
+works well, and i am extremely happy to be back to an apple os.	apple os	no	positive
+sure it's not light and slim but the features make up for it 100%.	features	no	positive
+i am pleased with the fast log on, speedy wifi connection and the long battery life (>6 hrs).	log on	no	positive
+i am pleased with the fast log on, speedy wifi connection and the long battery life (>6 hrs).	wifi connection	no	positive
+i am pleased with the fast log on, speedy wifi connection and the long battery life (>6 hrs).	battery life	no	positive
+the apple engineers have not yet discovered the delete key.	delete key	no	negative
+made interneting (part of my business) very difficult to maintain.	interneting	no	negative
+luckily, for all of us contemplating the decision, the mac mini is priced just right.	priced	no	positive
+super light, super sexy and everything just works.	works	no	positive
+only problem that i had was that the track pad was not very good for me, i only had a problem once or twice with it, but probably my computer was a bit defective.	track pad	no	negative
+it is super fast and has outstanding graphics.	graphics	no	positive
+but the mountain lion is just too slow.	mountain lion	no	negative
+strong build though which really adds to its durability.	durability	no	positive
+strong build though which really adds to its durability.	build	no	positive
+the battery life is excellent- 6-7 hours without charging.	battery life	no	positive
+i've had my computer for 2 weeks already and it works perfectly.	works	no	positive
+and i may be the only one but i am really liking windows 8.	windows 8	no	positive
+the baterry is very longer.	baterry	no	positive
+its size is ideal and the weight is acceptable.	size	no	positive
+its size is ideal and the weight is acceptable.	weight	no	positive
+i can say that i am fully satisfied with the performance that the computer has supplied.	performance	no	positive
+this laptop has only 2 usb ports, and they are both on the same side.	usb ports	no	negative
+it has so much more speed and the screen is very sharp.	speed	no	positive
+it has so much more speed and the screen is very sharp.	screen	no	positive
+everything i wanted and everything i needed and the price was great!	price	no	positive
+it's not inexpensive but the hardware performance is impressive for a computer this small.	hardware performance	no	positive
+this thing is awesome, everything always works, everything is always easy to set up, everything is compatible, its literally everything i could ask for.	works	no	positive
+this thing is awesome, everything always works, everything is always easy to set up, everything is compatible, its literally everything i could ask for.	set up	no	positive
+keyboard responds well to presses.	keyboard	no	positive
+lastly, windows 8 is annoying.	windows 8	no	negative
+everything is so easy and intuitive to setup or configure.	setup	no	positive
+everything is so easy and intuitive to setup or configure.	configure	no	positive
+biggest complaint is windows 8 .	windows 8	no	negative
+only 2 usb ports...seems kind of...limited.	usb ports	no	negative
+it has all the expected features and more +plus a wide screen and more than roomy keyboard.	features	no	positive
+it has all the expected features and more +plus a wide screen and more than roomy keyboard.	screen	no	positive
+it has all the expected features and more +plus a wide screen and more than roomy keyboard.	keyboard	no	positive
+amazing performance for anything i throw at it.	performance	no	positive
+the receiver was full of superlatives for the quality and performance.	quality	no	positive
+the receiver was full of superlatives for the quality and performance.	performance	no	positive
+i was extremely happy with the os itself.	os	no	positive
+the new mbp offers great portability and gives us confidence that we are not going to need to purchase a new laptop in 18 months.	portability	no	positive
+the criticism has waned, and now i'd be the first to recommend an air for truly portable computing.	portable computing	no	positive
+i would have given it 5 starts was it not for the fact that it had windows 8	windows 8	no	negative
+ms office 2011 for mac is wonderful, well worth it.	ms office 2011 for mac	no	positive
+but the performance of mac mini is a huge disappointment.	performance	no	negative
+they don't just look good; they deliver excellent performance.	look	no	positive
+they don't just look good; they deliver excellent performance.	performance	no	positive
+i have had it over a year now with out a glitch of any kind..i love the lit up keys and screen display...this thing is fast and clear as can be.	lit up keys	no	positive
+i have had it over a year now with out a glitch of any kind..i love the lit up keys and screen display...this thing is fast and clear as can be.	screen display	no	positive
+the mountain lion os is not hard to figure out if you are familiar with microsoft windows.	mountain lion os	yes	positive
+the mountain lion os is not hard to figure out if you are familiar with microsoft windows.	microsoft windows	yes	neutral
+however, i can refute that osx is "fast".	osx	no	negative
+enjoy using microsoft office!	microsoft office	no	positive
+incredible graphics and brilliant colors.	graphics	no	positive
+incredible graphics and brilliant colors.	colors	no	positive
+built-in apps are purely amazing.	built-in apps	no	positive
+cons: screen resolution.	screen resolution	no	negative
+from the speed to the multi touch gestures this operating system beats windows easily.	operating system	yes	positive
+from the speed to the multi touch gestures this operating system beats windows easily.	windows	yes	negative
+from the speed to the multi touch gestures this operating system beats windows easily.	speed	yes	positive
+from the speed to the multi touch gestures this operating system beats windows easily.	multi touch gestures	yes	positive
+i really like the size and i'm a fan of the acers.	size	no	positive
+i opted for the squaretrade 3-year computer accidental protection warranty ($1500-2000) which also support "accidents" like drops and spills that are not covered by applecare.	squaretrade 3-year computer accidental protection warranty	yes	positive
+i opted for the squaretrade 3-year computer accidental protection warranty ($1500-2000) which also support "accidents" like drops and spills that are not covered by applecare.	applecare	yes	negative
+it's light and easy to transport.	transport	no	positive
+once you get past learning how to use the poorly designed windows 8 set-up you may feel frustrated.	windows 8 set-up	no	negative
+it's been time for a new laptop, and the only debate was which size of the mac laptops, and whether to spring for the retina display.	size	no	neutral
+it's been time for a new laptop, and the only debate was which size of the mac laptops, and whether to spring for the retina display.	retina display	no	neutral
+the reason why i choose apple macbook because of their design and the aluminum casing.	design	no	positive
+the reason why i choose apple macbook because of their design and the aluminum casing.	aluminum casing	no	positive
+the aluminum body sure makes it stand out.	aluminum body	no	positive
+it is very easy to integrate bluetooth devices, and usb devices are recognized almost instantly.	integrate bluetooth devices	no	positive
+it is very easy to integrate bluetooth devices, and usb devices are recognized almost instantly.	usb devices	no	positive
+and the fact that apple is driving the 13" rmbp with the intel4000 graphic chip seems underpowered (to me.	intel4000 graphic chip	no	negative
+apple removed the dvd drive firewire port (will work with adapter) and put the sdxc slot in a silly position on the back.	dvd drive firewire port	yes	neutral
+apple removed the dvd drive firewire port (will work with adapter) and put the sdxc slot in a silly position on the back.	adapter	yes	neutral
+apple removed the dvd drive firewire port (will work with adapter) and put the sdxc slot in a silly position on the back.	sdxc slot	yes	negative
+the durability of the laptop will make it worth the money.	durability	no	positive
+well designed and fast.	designed	no	positive
+but i was completely wrong, this computer is unbelievable amazing and easy to use.	use	no	positive
+exactly as posted plus a great value.	value	no	positive
+the specs are pretty good too.	specs	no	positive
+apple is unmatched in product quality,aesthetics,craftmanship, and customer service.	product quality	no	positive
+apple is unmatched in product quality,aesthetics,craftmanship, and customer service.	aesthetics	no	positive
+apple is unmatched in product quality,aesthetics,craftmanship, and customer service.	craftmanship	no	positive
+apple is unmatched in product quality,aesthetics,craftmanship, and customer service.	customer service	no	positive
+it is a great size and amazing windows 8 included!	size	no	positive
+it is a great size and amazing windows 8 included!	windows 8	no	positive
+i do not like too much windows 8.	windows 8	no	negative
+startup times are incredibly long: over two minutes.	startup times	no	negative
+also stunning colors and speedy	colors	no	positive
+great price free shipping what else can i ask for!!	price	no	positive
+great price free shipping what else can i ask for!!	shipping	no	positive
+this mouse is terrific.	mouse	no	positive
+it is really thick around the battery.	battery	no	neutral
+and windows 7 works like a charm.	windows 7	no	positive
+:) great product, great price, great delivery, and great service.	price	no	positive
+:) great product, great price, great delivery, and great service.	delivery	no	positive
+:) great product, great price, great delivery, and great service.	service	no	positive
+:] it arrived so fast and customer service was great.	customer service	no	positive
+tried windows 8 and hated it !!!	windows 8	no	negative
+the price is higher than most lab top out there; however, he/she will get what they paid for, which is a great computer.	price	no	conflict
+set up was a breeze.	set up	no	positive
+but i do not like win8.	win8	no	negative
+i am still in the process of learning about its features.	features	no	neutral
+i had the same reasons as most pc users: the price, the overbearing restrictions of osx and lack of support for games.	price	no	negative
+i had the same reasons as most pc users: the price, the overbearing restrictions of osx and lack of support for games.	osx	no	negative
+i had the same reasons as most pc users: the price, the overbearing restrictions of osx and lack of support for games.	support for games	no	negative
+i wanted it for it's mobility and man, this little bad boy is very nice.	mobility	no	positive
+the investment of a new macbook pro came at a price, but totally worth it for a good piece of mind.	price	no	conflict
+i found the mini to be:exceptionally easy to set up	set up	no	positive
+having usb3 is why i bought this mini.	usb3	no	positive
+the sound is nice and loud; i don't have any problems with hearing anything.	sound	no	positive
+it is very slim, the track pad is very much impressed with me.	track pad	no	positive
+the settings are not user-friendly either.	settings	no	negative
+thank goodness for openoffice!	openoffice	no	positive
+awesome form factor, great battery life, wonderful ux.	form factor	no	positive
+awesome form factor, great battery life, wonderful ux.	battery life	no	positive
+awesome form factor, great battery life, wonderful ux.	ux	no	positive
+i love the keyboard and the screen.	keyboard	no	positive
+i love the keyboard and the screen.	screen	no	positive
+however, there are major issues with the touchpad which render the device nearly useless.	touchpad	no	negative
+i've already upgraded o mavericks and i am impressed with everything about this computer.	mavericks	no	positive
+not as fast as i would have expect for an i5.	i5	no	negative
+thanks for great service and shipping!	service	no	positive
+thanks for great service and shipping!	shipping	no	positive
+the performance seems quite good, and built-in applications like iphoto work great with my phone and camera.	performance	no	positive
+the performance seems quite good, and built-in applications like iphoto work great with my phone and camera.	built-in applications	no	positive
+the performance seems quite good, and built-in applications like iphoto work great with my phone and camera.	iphoto	no	positive
+i did swap out the hard drive for a samsung 830 ssd which i highly recommend.	hard drive	yes	neutral
+i did swap out the hard drive for a samsung 830 ssd which i highly recommend.	samsung 830 ssd	yes	positive
+starts up in a hurry and everything is ready to go.	starts up	no	positive
+yes, that's a good thing, but it's made from aluminum that scratches easily.	aluminum	no	negative
+quick and has built in virus control.	built in virus control	no	positive
+took a long time trying to decide between one with retina display and one without.	retina display	no	neutral
+i was also informed that the components of the mac book were dirty.	components	no	negative
+the hardware problems have been so bad, i can't wait till it completely dies in 3 years, tops!	hardware	no	negative
+it's so nice that the battery last so long and that this machine has the snow lion!	battery	no	positive
+it's so nice that the battery last so long and that this machine has the snow lion!	snow lion	no	positive
+however i chose two day shipping and it took over a week to arrive.	shipping	no	negative
+it's exactly what i wanted, and it has all the new features and whatnot.	features	no	positive
+can you buy any laptop that matches the quality of a macbook?	quality	no	positive
+it feels cheap, the keyboard is not very sensitive.	keyboard	no	negative
+though please note that sometimes it crashes, and the sound quality isnt superb.	sound quality	no	negative
+it is very easy to navigate even for a novice.	navigate	no	positive
+does everything i need it to, has a wonderful battery life and i couldn't be happier.	battery life	no	positive
+great performance and quality.	performance	no	positive
+great performance and quality.	quality	no	positive
+i used windows xp, windows vista, and windows 7 extensively.	windows xp	no	neutral
+i used windows xp, windows vista, and windows 7 extensively.	windows vista	no	neutral
+i used windows xp, windows vista, and windows 7 extensively.	windows 7	no	neutral
+i did add a ssd drive and memory	ssd drive	no	neutral
+i did add a ssd drive and memory	memory	no	neutral
+on start up it asks endless questions just so itune can sell you more of their products.	start up	no	negative
+on start up it asks endless questions just so itune can sell you more of their products.	itune	no	negative
+i have been a pc user for a very long time now but i will get used to this new os.	os	no	neutral
+one more thing, this mac does not come with restore disks and i am not sure if you can make them direct from the mac like you can with newer pc's, also the charging cables are made of the same cheap material as the iphone/ipod touch cables.	restore disks	no	negative
+one more thing, this mac does not come with restore disks and i am not sure if you can make them direct from the mac like you can with newer pc's, also the charging cables are made of the same cheap material as the iphone/ipod touch cables.	charging cables	no	negative
+one more thing, this mac does not come with restore disks and i am not sure if you can make them direct from the mac like you can with newer pc's, also the charging cables are made of the same cheap material as the iphone/ipod touch cables.	material	no	negative
+i bought it to my son who uses it for graphic design.	graphic design	no	neutral
+i never tried any external mics with that imac.	external mics	no	neutral
+the new os is great on my macbook pro!	os	no	positive
+i had a little problem adjusting to the small screen but works fine as long as i remember to carry my glasses.	screen	no	conflict
+i have experienced no problems, works as anticipated.	works	no	positive
+system is running great.	system	no	positive
+easy to customize setting and even create your own bookmarks.	customize setting	no	positive
+easy to customize setting and even create your own bookmarks.	create your own bookmarks	no	positive
+the mac mini, wireless keyboard / mouse and a hdmi cable is all i need to get some real work done.	wireless keyboard / mouse	no	neutral
+the mac mini, wireless keyboard / mouse and a hdmi cable is all i need to get some real work done.	hdmi cable	no	neutral
+it has all the features that we expected and the price was good, working well so far.	features	no	positive
+it has all the features that we expected and the price was good, working well so far.	price	no	positive
+it has all the features that we expected and the price was good, working well so far.	working	no	positive
+i work as a designer and coder and i needed a new buddy to work with, not gaming.	gaming	no	neutral
+the new operating system makes this computer into a super ipad.	operating system	no	positive
+easy to set up and go!	set up	no	positive
+i can't believe how quiet the hard drive is and how quick this thing boots up.	hard drive	no	positive
+i can't believe how quiet the hard drive is and how quick this thing boots up.	boots up	no	positive
+the only issue came when i tried scanning to the mac.	scanning	no	negative
+i think this is about as good as it gets at anything close to this price point.	price point	no	neutral
+it's just what we were looking for and it works great.	works	no	positive
+it's so quick and responsive that it makes working/surfing on a computer so much more pleasurable!	working	no	positive
+it's so quick and responsive that it makes working/surfing on a computer so much more pleasurable!	surfing	no	positive
+it works fine, and all the software seems to run pretty well.	works	no	positive
+it works fine, and all the software seems to run pretty well.	software	no	positive
+i'm using this computer for word processing, web browsing, some gaming, and i'm learning programming.	word processing	no	neutral
+i'm using this computer for word processing, web browsing, some gaming, and i'm learning programming.	web browsing	no	neutral
+i'm using this computer for word processing, web browsing, some gaming, and i'm learning programming.	gaming	no	neutral
+i'm using this computer for word processing, web browsing, some gaming, and i'm learning programming.	programming	no	neutral
+my wife was so excited to open the box, but quickly came to see that it did not function as it should.	function	no	negative
+i wanted a computer that was quite, fast, and that had overall great performance.	performance	no	neutral
+apple "help" is a mixed bag.	apple "help"	no	negative
+it suddenly can not work.	work	no	negative
+harddrive was in poor condition, had to replace it.	harddrive	no	negative
+the on/off switch is a bit obscure in the rear corner.	on/off switch	no	negative
+my only complaint is the total lack of instructions that come with the mac mini.	instructions	no	negative
+the only task that this computer would not be good enough for would be gaming, otherwise the integrated intel 4000 graphics work well for other tasks.	gaming	yes	negative
+the only task that this computer would not be good enough for would be gaming, otherwise the integrated intel 4000 graphics work well for other tasks.	integrated intel 4000 graphics	yes	conflict
+i'm hoping the rest of the features will be the signature quality of apple.	features	no	conflict
+i use it mostly for content creation (audio, video, photo editing) and its reliable.	content creation	no	positive
+i use it mostly for content creation (audio, video, photo editing) and its reliable.	audio	no	positive
+i use it mostly for content creation (audio, video, photo editing) and its reliable.	video	no	positive
+i use it mostly for content creation (audio, video, photo editing) and its reliable.	photo editing	no	positive
+screen is bright and gorgeous.	screen	no	positive
+the only solution is to turn the brightness down, etc.	brightness	no	neutral
+if you want more information on macs i suggest going to apple.com and heading towards the macbook page for more information on the applications.	applications	no	neutral
+it is robust, with a friendly use as all apple products.	use	no	positive
+it is fast and easy to use.	use	no	positive
+and the fact that it comes with an i5 processor definitely speeds things up	i5 processor	no	positive
+i have been pc for years but this computer is intuitive and its built in features are a great help	built in features	no	positive
+nice screen, keyboard works great!	screen	no	positive
+nice screen, keyboard works great!	keyboard	no	positive
+i was amazed at how fast the delivery was.	delivery	no	positive
+i've installed to it additional ssd and 16gb ram.	ssd	no	neutral
+i've installed to it additional ssd and 16gb ram.	16gb ram	no	neutral
+the memory was gone and it was not able to be used.	memory	no	negative
+it works great and i am so happy i bought it.	works	no	positive
+i like the design and ease of use with the keyboard, plenty of ports.	design	no	positive
+i like the design and ease of use with the keyboard, plenty of ports.	keyboard	no	positive
+i like the design and ease of use with the keyboard, plenty of ports.	ports	no	positive
+it definitely beats my old mac and the service was great.	service	no	positive
+web browsing is very quick with safari browser.	web browsing	no	positive
+web browsing is very quick with safari browser.	safari browser	no	positive
+i like the lighted screen at night.	lighted screen	no	positive
+it is really easy to use and it is quick to start up.	use	no	positive
+it is really easy to use and it is quick to start up.	start up	no	positive
+i've lived with the crashes and slow operation and restarts.	operation	no	negative
+usb3 peripherals are noticably less expensive than the thunderbolt ones.	usb3 peripherals	yes	positive
+usb3 peripherals are noticably less expensive than the thunderbolt ones.	thunderbolt	yes	negative
+and mine had broke but i sent it in under warranty-no problems.	warranty	no	positive
+it's fast, light, and is perfect for media editing, which is mostly why i bought it in the first place.	media editing	no	positive
+the battery lasts as advertised (give or take 15-20 minutes), and the entire user experience is very elegant.	battery	no	positive
+the battery lasts as advertised (give or take 15-20 minutes), and the entire user experience is very elegant.	user experience	no	positive
+thanks for the fast shipment and great price.	shipment	no	positive
+thanks for the fast shipment and great price.	price	no	positive
+!excelent performance, usability, presentation and time response.	performance	no	positive
+!excelent performance, usability, presentation and time response.	usability	no	positive
+!excelent performance, usability, presentation and time response.	presentation	no	positive
+!excelent performance, usability, presentation and time response.	time response	no	positive
+the smaller size was a bonus because of space restrictions.	size	no	positive
+i blame the mac os.	mac os	no	negative
+in fact i still use manylegacy programs (appleworks, filemaker pro, quicken, photoshop etc)!	legacy programs	no	neutral
+in fact i still use manylegacy programs (appleworks, filemaker pro, quicken, photoshop etc)!	appleworks	no	neutral
+in fact i still use manylegacy programs (appleworks, filemaker pro, quicken, photoshop etc)!	filemaker pro	no	neutral
+in fact i still use manylegacy programs (appleworks, filemaker pro, quicken, photoshop etc)!	quicken	no	neutral
+in fact i still use manylegacy programs (appleworks, filemaker pro, quicken, photoshop etc)!	photoshop	no	neutral
+i like the operating system.	operating system	no	positive
+i love the form factor.	form factor	no	positive
+it's fast at loading the internet.	loading the internet	no	positive
+so much faster and sleeker looking.	looking	no	positive
+unfortunately, it runs xp and microsoft is dropping support next april.	xp	yes	neutral
+unfortunately, it runs xp and microsoft is dropping support next april.	support	yes	negative
+first off, i really do like my mbp... once used to the os it is pretty easy to get around, and the overall build is great... eg the keyboard is one of the best to type on.	os	no	positive
+first off, i really do like my mbp... once used to the os it is pretty easy to get around, and the overall build is great... eg the keyboard is one of the best to type on.	overall build	no	positive
+first off, i really do like my mbp... once used to the os it is pretty easy to get around, and the overall build is great... eg the keyboard is one of the best to type on.	keyboard	no	positive
+it is made of such solid construction and since i have never had a mac using my iphone helped me get used to the system a bit.	construction	yes	positive
+it is made of such solid construction and since i have never had a mac using my iphone helped me get used to the system a bit.	system	yes	neutral
+very nice unibody construction.	unibody construction	no	positive
+this macbook pro is fast, powerful, and runs super quiet and cool.	runs	no	positive
+it's ok but doesn't have a disk drive which i didn't know until after i bought it.	disk drive	no	neutral
+there is no hdmi receptacle, nor is there an sd card slot located anywhere on the device.	hdmi receptacle	no	neutral
+there is no hdmi receptacle, nor is there an sd card slot located anywhere on the device.	sd card slot	no	neutral
+it came in brand new and works perfectly.	works	no	positive
+it shouldn't happen like that, i don't have any design app open or anything.	design app	no	neutral
+my trackpad is not working.	trackpad	no	negative
+it looks and feels solid, with a flawless finish.	finish	no	positive
+it looks and feels solid, with a flawless finish.	looks	no	positive
+it looks and feels solid, with a flawless finish.	feels	no	positive
+price was higher when purchased on mac when compared to price showing on pc when i bought this product.	price	yes	negative
+price was higher when purchased on mac when compared to price showing on pc when i bought this product.	price	yes	positive
+then the system would many times not power down without a forced power-off.	system	no	negative
+then the system would many times not power down without a forced power-off.	power down	no	negative
+the configuration is perfect for my needs.	configuration	no	positive
+and the speakers is the worst ever.	speakers	no	negative
+its the best, its got the looks, super easy to use and love all you can do with the trackpad!..	looks	no	positive
+its the best, its got the looks, super easy to use and love all you can do with the trackpad!..	use	no	positive
+its the best, its got the looks, super easy to use and love all you can do with the trackpad!..	trackpad	no	positive
+web surfuring is smooth and seamless.	web surfuring	no	positive
+i'm overall pleased with the interface and the portability of this product.	interface	no	positive
+i'm overall pleased with the interface and the portability of this product.	portability	no	positive
+this item is a beautiful piece, it works well, it is easy to carry and handle.	works	no	positive
+this item is a beautiful piece, it works well, it is easy to carry and handle.	carry	no	positive
+this item is a beautiful piece, it works well, it is easy to carry and handle.	handle	no	positive
+it was also suffering from hardware (keyboard) issues, relatively slow performance and shortening battery lifetime.	performance	no	negative
+it was also suffering from hardware (keyboard) issues, relatively slow performance and shortening battery lifetime.	battery lifetime	no	negative
+it was also suffering from hardware (keyboard) issues, relatively slow performance and shortening battery lifetime.	hardware (keyboard)	no	negative
+runs good and does the job, can't complain about that!	runs	no	positive
+it's silent and has a very small footprint on my desk.	footprint	no	positive
+the exterior is absolutely gorgeous.	exterior	no	positive
+it has a very high performance, just for what i needed for.	performance	no	positive
+apple is aware of this issue and this is either old stock or a defective design involving the intel 4000 graphics chipset.	intel 4000 graphics chipset	no	neutral
+apple is aware of this issue and this is either old stock or a defective design involving the intel 4000 graphics chipset.	design	no	neutral
+osx mountain lion  soon to upgrade to mavericks.	osx mountain lion	no	neutral
+osx mountain lion  soon to upgrade to mavericks.	mavericks	no	neutral
+i just bought the new macbook pro, the 13" model, and i can't believe apple keeps making the same mistake with regard to usb ports.	usb ports	no	negative
+it wakes in less than a second when i open the lid.	lid	yes	neutral
+it wakes in less than a second when i open the lid.	wakes	yes	positive
+it is the perfect size and speed for me.	size	no	positive
+it is the perfect size and speed for me.	speed	no	positive
+the customer service is terrific!!	customer service	no	positive
+my last laptop was a 17" asus gaming machine, which performed admirably, but having since built my own desktop and really settling into the college life, i found myself wanting something smaller and less cumbersome, not to mention that the asus had been slowly developing problems ever since i bought it about 4 years ago.	performed	no	positive
+however, it did not have any scratches, zero battery cycle count (pretty surprised), and all the hardware seemed to be working perfectly.	battery cycle count	no	positive
+however, it did not have any scratches, zero battery cycle count (pretty surprised), and all the hardware seemed to be working perfectly.	hardware	no	positive
+after fumbling around with the os i started searching the internet for a fix and found a number of forums on fixing the issue.	os	no	negative
+and as for all the fancy finger swipes -- i just gave up and attached a mouse.	finger swipes	yes	negative
+and as for all the fancy finger swipes -- i just gave up and attached a mouse.	mouse	yes	neutral
+i needed a laptop with big storage, a nice screen and fast so i can photoshop without any problem.	storage	no	neutral
+i needed a laptop with big storage, a nice screen and fast so i can photoshop without any problem.	screen	no	neutral
+i needed a laptop with big storage, a nice screen and fast so i can photoshop without any problem.	photoshop	no	neutral
+i like coming back to mac os but this laptop is lacking in speaker quality compared to my $400  old hp laptop.	mac os	yes	positive
+i like coming back to mac os but this laptop is lacking in speaker quality compared to my $400  old hp laptop.	speaker quality	yes	negative
+shipped very quickly and safely.	shipped	no	positive
+the thunderbolt port is awesome!	thunderbolt port	no	positive
+the performance is definitely superior to any computer i've ever put my hands on.	performance	no	positive
+it's great for streaming video and other entertainment uses.	streaming video	no	positive
+it's great for streaming video and other entertainment uses.	entertainment uses	no	positive
+i like the design and its features but there are somethings i think needs to be improved.	design	no	positive
+i like the design and its features but there are somethings i think needs to be improved.	features	no	positive
+there were small problems with mac office.	mac office	no	negative
+i understand i should call apple tech support about any variables(which is my purpose of writing this con) as variables could be a bigger future problem.	apple tech support	no	neutral
+i ordered my 2012 mac mini after being disappointed with spec of the new 27" imacs.	spec	no	negative
+it still works and it's extremely user friendly, so i would recommend it for new computer user and also for those who are just looking for a more efficient way to do things	works	no	positive
+its fast, easy to use and it looks great.	use	no	positive
+its fast, easy to use and it looks great.	looks	no	positive
+(but office can be purchased) if i ever need a laptop again i am for sure purchasing another toshiba!!	office	no	neutral
+i haven't tried the one with retina display... maybe in the future.	retina display	no	neutral
+performance is much much better on the pro, especially if you install an ssd on it.	performance	no	positive
+performance is much much better on the pro, especially if you install an ssd on it.	ssd	no	positive
+note, however, that any existing magsafe accessories you have will not work with the magsafe 2 connection.	magsafe accessories	yes	neutral
+note, however, that any existing magsafe accessories you have will not work with the magsafe 2 connection.	magsafe 2 connection	yes	negative
+the only thing i dislike is the touchpad, alot of the times its unresponsive and does things i dont want it too, i would recommend using a mouse with it.	touchpad	yes	negative
+the only thing i dislike is the touchpad, alot of the times its unresponsive and does things i dont want it too, i would recommend using a mouse with it.	mouse	yes	neutral
+the mac mini is about 8x smaller than my old computer which is a huge bonus and runs very quiet, actually the fans aren't audible unlike my old pc	runs	no	positive
+the mac mini is about 8x smaller than my old computer which is a huge bonus and runs very quiet, actually the fans aren't audible unlike my old pc	fans	no	positive
+maybe the mac os improvement were not the product they want to offer.	mac os	no	negative
+i thought the transition would be difficult at best and would take some time to fully familiarize myself with the new mac ecosystem.	mac ecosystem	no	neutral
+it's absolutely wonderful and worth the price!	price	no	positive
+i am please with the products ease of use; out of the box ready; appearance and functionality.	use	no	positive
+i am please with the products ease of use; out of the box ready; appearance and functionality.	appearance	no	positive
+i am please with the products ease of use; out of the box ready; appearance and functionality.	functionality	no	positive
+perfect for all my graphic design classes i'm taking this year in college :-)	graphic design	no	positive
+i will not be using that slot again.	slot	no	negative
+the os is fast and fluid, everything is organized and it's just beautiful.	os	no	positive
+they are simpler to use.	use	no	positive
+!so nice .. stable .. fast .. now i got my ssd !	ssd	no	positive
+also, in using the built-in camera, my voice recording for my vlog sounds like the interplanetary transmissions in the "star wars" saga.	built-in camera	yes	neutral
+also, in using the built-in camera, my voice recording for my vlog sounds like the interplanetary transmissions in the "star wars" saga.	voice recording	yes	negative
+i love the quick start up.	start up	no	positive
+you just cannot beat the functionality of an apple device.	functionality	no	positive
+yet my mac continues to function properly.	function	no	positive
+graphics are much improved.	graphics	no	positive
+here are the things that made me confident with my purchase:build quality - seriously, you can't beat a unibody construction.	build quality	no	positive
+here are the things that made me confident with my purchase:build quality - seriously, you can't beat a unibody construction.	unibody construction	no	positive
+it provides much more flexibility for connectivity.	flexibility for connectivity	no	positive
+i want the portability of a tablet, without the limitations of a tablet and that's where this laptop comes into play.	portability	no	positive
+mac tutorials do help.	mac tutorials	no	positive
+the technical support was not helpful as well.	technical support	no	negative
+i got the new adapter and there was no change.	adapter	no	neutral
+so i called technical support.	technical support	no	neutral
+came with iphoto and garage band already loaded.	iphoto	no	neutral
+came with iphoto and garage band already loaded.	garage band	no	neutral
+logic board utterly fried, cried, and laid down and died.	logic board	no	positive
+the sound was crappy even when you turn up the volume still the same results.	sound	no	negative
+the sound was crappy even when you turn up the volume still the same results.	volume	no	negative
+osx lion is a great performer..extremely fast and reliable.	osx lion	no	positive
+having heard from friends and family about how reliable a mac product is, i never expected to have an application crash within the first month, but i did.	application	no	negative
+the macbook pro's physical form is wonderful.	physical form	no	positive
+the mini's body hasn't changed since late 2010- and for a good reason.	body	no	positive
+the unibody construction really does feel lot more solid than apple's previous laptops.	unibody construction	no	positive
+3d rendering slows it down considerably.	3d rendering	no	negative
+got this mac mini with os x mountain lion for my wife.	os x mountain lion	no	neutral
+fast, great screen, beautiful apps for a laptop;priced at 1100 on the apple website;amazon had it for 1098+ tax -  plus i had a 10% off coupon from amazon-cost me 998 plus tax- 1070- otd!	screen	yes	positive
+fast, great screen, beautiful apps for a laptop;priced at 1100 on the apple website;amazon had it for 1098+ tax -  plus i had a 10% off coupon from amazon-cost me 998 plus tax- 1070- otd!	apps	yes	positive
+fast, great screen, beautiful apps for a laptop;priced at 1100 on the apple website;amazon had it for 1098+ tax -  plus i had a 10% off coupon from amazon-cost me 998 plus tax- 1070- otd!	priced	yes	neutral
+fast, great screen, beautiful apps for a laptop;priced at 1100 on the apple website;amazon had it for 1098+ tax -  plus i had a 10% off coupon from amazon-cost me 998 plus tax- 1070- otd!	cost	yes	neutral
+12.44 seconds to boot.	boot	no	neutral
+all the ports are much needed since this is my main computer.	ports	no	neutral
+the like new condition of the imac mc309ll/a on amazon is at $900+ level only, and it is a quad-core 2.5 ghz cpu (similar to the $799 mini), with radeon hd 6750m 512mb graphic card (this mini is integrated intel 4000 card), and it even comes with wireless apple keyboard and mouse, all put together in neat and nice package.	quad-core 2.5 ghz cpu	yes	neutral
+the like new condition of the imac mc309ll/a on amazon is at $900+ level only, and it is a quad-core 2.5 ghz cpu (similar to the $799 mini), with radeon hd 6750m 512mb graphic card (this mini is integrated intel 4000 card), and it even comes with wireless apple keyboard and mouse, all put together in neat and nice package.	radeon hd 6750m 512mb graphic card	yes	neutral
+the like new condition of the imac mc309ll/a on amazon is at $900+ level only, and it is a quad-core 2.5 ghz cpu (similar to the $799 mini), with radeon hd 6750m 512mb graphic card (this mini is integrated intel 4000 card), and it even comes with wireless apple keyboard and mouse, all put together in neat and nice package.	integrated intel 4000 card	yes	neutral
+the like new condition of the imac mc309ll/a on amazon is at $900+ level only, and it is a quad-core 2.5 ghz cpu (similar to the $799 mini), with radeon hd 6750m 512mb graphic card (this mini is integrated intel 4000 card), and it even comes with wireless apple keyboard and mouse, all put together in neat and nice package.	wireless apple keyboard and mouse	yes	neutral
+the like new condition of the imac mc309ll/a on amazon is at $900+ level only, and it is a quad-core 2.5 ghz cpu (similar to the $799 mini), with radeon hd 6750m 512mb graphic card (this mini is integrated intel 4000 card), and it even comes with wireless apple keyboard and mouse, all put together in neat and nice package.	package	yes	positive
+put a cover on it and is a little better but that is my only complaint.	cover	no	neutral
+within a few hours i was using the gestures unconsciously.	gestures	no	positive
+this mac does come with an extender cable and i'm using mine right now hoping the cable will stay nice for the many years i plan on using this mac.	extender cable	yes	neutral
+this mac does come with an extender cable and i'm using mine right now hoping the cable will stay nice for the many years i plan on using this mac.	cable	yes	positive
+the 2.9ghz dual-core i7 chip really out does itself.	2.9ghz dual-core i7 chip	no	positive
+it is pretty snappy and starts up in about 30 seconds which is good enough for me.	starts up	no	positive
+so noise is reduced at least 50% and the heat is much better, now it doesn't feel hot but warm.	heat	no	conflict
+so noise is reduced at least 50% and the heat is much better, now it doesn't feel hot but warm.	noise	no	conflict
+not sure on windows 8.	windows 8	no	neutral
+my one complaint is that there was no internal cd drive.	internal cd drive	no	negative
+this newer netbook has no hard drive or network lights.	hard drive	no	neutral
+this newer netbook has no hard drive or network lights.	network lights	no	neutral
+i was having a though time deciding between the 13" macbook air or the macbook pro 13" (both baseline models, priced at 1,200 $ retail)	priced	no	neutral
+not too expense and has enough storage for most users and many ports.	storage	no	positive
+not too expense and has enough storage for most users and many ports.	ports	no	positive
+the audio volume is quite low and virtually unusable in a room with any background activity.	audio volume	no	negative
+it is lightweight and the perfect size to carry to class.	size	no	positive
+i was given a demonstration of windows 8.	windows 8	no	neutral
+the mbp is beautiful has many wonderful capabilities.	capabilities	no	positive
+i thought that it will be fine, if i do some settings.	settings	no	neutral
+runs very smoothly.	runs	no	positive
+boot-up slowed significantly after all windows updates were installed.	boot-up	no	negative
+boot-up slowed significantly after all windows updates were installed.	windows updates	no	negative
+more likely it will require replacing the logic board once they admit they have a problem and come up with a solution.	logic board	no	negative
+it was important that it was powerful enough to do all of the tasks he needed on the internet, word processing, graphic design and gaming.	internet	no	positive
+it was important that it was powerful enough to do all of the tasks he needed on the internet, word processing, graphic design and gaming.	word processing	no	positive
+it was important that it was powerful enough to do all of the tasks he needed on the internet, word processing, graphic design and gaming.	graphic design	no	positive
+it was important that it was powerful enough to do all of the tasks he needed on the internet, word processing, graphic design and gaming.	gaming	no	positive
+i like the mini mac it was easy to setup and install, but i am learning as i go and could use a tutorial to learn how to use some of the features i was use to on the pc especially the right mouse click menu.	setup	yes	positive
+i like the mini mac it was easy to setup and install, but i am learning as i go and could use a tutorial to learn how to use some of the features i was use to on the pc especially the right mouse click menu.	install	yes	positive
+i like the mini mac it was easy to setup and install, but i am learning as i go and could use a tutorial to learn how to use some of the features i was use to on the pc especially the right mouse click menu.	tutorial	yes	neutral
+i like the mini mac it was easy to setup and install, but i am learning as i go and could use a tutorial to learn how to use some of the features i was use to on the pc especially the right mouse click menu.	features	yes	neutral
+i like the mini mac it was easy to setup and install, but i am learning as i go and could use a tutorial to learn how to use some of the features i was use to on the pc especially the right mouse click menu.	right mouse click menu	yes	neutral
+runs real quick.	runs	no	positive
+buy the separate ram memory and you will have a rocket!	ram memory	no	positive
+since the machine's slim profile is critical to me, that was a problem.	profile	no	negative
+wifi capability, disk drive and multiple usb ports to connect scale and printers was all that was required.	disk drive	no	positive
+wifi capability, disk drive and multiple usb ports to connect scale and printers was all that was required.	usb ports	no	positive
+wifi capability, disk drive and multiple usb ports to connect scale and printers was all that was required.	wifi capability	no	positive
+the sd card reader is slightly recessed and upside down (the nail slot on the card cannot be accessed), if this was a self ejecting slot this would not be an issue, but its not.	sd card reader	no	negative
+the sd card reader is slightly recessed and upside down (the nail slot on the card cannot be accessed), if this was a self ejecting slot this would not be an issue, but its not.	nail slot on the card	no	negative
+the sd card reader is slightly recessed and upside down (the nail slot on the card cannot be accessed), if this was a self ejecting slot this would not be an issue, but its not.	slot	no	negative
+soft touch, anodized aluminum with laser cut precision and no flaws.	touch	no	positive
+soft touch, anodized aluminum with laser cut precision and no flaws.	anodized aluminum	no	positive
+simple details, crafted aluminium and real glass make this laptop blow away the other plastic ridden, bulky sticker filled laptops.	aluminium	no	positive
+simple details, crafted aluminium and real glass make this laptop blow away the other plastic ridden, bulky sticker filled laptops.	glass	no	positive
+first of all yes this is a mac and it has that nice brushed aluminum .	aluminum	no	positive
+after all was said and done, i essentially used that $450 savings to buy 16gb of ram, two seagate momentus xt hybrid drives and an owc upgrade kit to install the second hard drive.	16gb of ram	no	neutral
+after all was said and done, i essentially used that $450 savings to buy 16gb of ram, two seagate momentus xt hybrid drives and an owc upgrade kit to install the second hard drive.	seagate momentus xt hybrid drives	no	neutral
+after all was said and done, i essentially used that $450 savings to buy 16gb of ram, two seagate momentus xt hybrid drives and an owc upgrade kit to install the second hard drive.	owc upgrade kit	no	neutral
+after all was said and done, i essentially used that $450 savings to buy 16gb of ram, two seagate momentus xt hybrid drives and an owc upgrade kit to install the second hard drive.	hard drive	no	neutral
+the dell inspiron is fast and has a number pad on the keyboard, which i miss on my apple laptops.	number pad on the keyboard	no	positive
+i was concerned that the downgrade to the regular hard drive would make it unacceptably slow but i need not have worried - this machine is the fastest i have ever owned...	regular hard drive	no	positive
+this one still has the cd slot.	cd slot	no	neutral
+no hdmi port.	hdmi port	no	neutral
+i had to install mountain lion and it took a good two hours.	install mountain lion	no	negative
+customization on mac is impossible.	customization	no	negative
+i am replacing the hd with a micron ssd soon.	hd	no	neutral
+i am replacing the hd with a micron ssd soon.	micron ssd	no	neutral
+plus two finger clicking as a replacement for the right click button is surprisingly intuitive.	two finger clicking	yes	positive
+plus two finger clicking as a replacement for the right click button is surprisingly intuitive.	right click button	yes	neutral
+the superdrive is quiet.	superdrive	no	positive
+the power plug has to be connected to the power adaptor to charge the battery but won't stay connected.	power plug	yes	negative
+the power plug has to be connected to the power adaptor to charge the battery but won't stay connected.	power adaptor	yes	neutral
+the power plug has to be connected to the power adaptor to charge the battery but won't stay connected.	battery	yes	neutral
+the battery was completely dead, in fact it had grown about a quarter inch thick lump on the underside.	battery	no	negative
+if yo like practicality this is the laptop for you.	practicality	no	positive
+the os is great.	os	no	positive
+i tried several monitors and several hdmi cables and this was the case each time.	monitors	no	neutral
+i tried several monitors and several hdmi cables and this was the case each time.	hdmi cables	no	neutral
+cons: price is a bit ridiculous, kinda heavy.	price	no	negative
+the troubleshooting said it was the ac adaptor so we ordered a new one.	ac adaptor	no	neutral
+fan only comes on when you are playing a game.	fan	no	neutral
+fan only comes on when you are playing a game.	playing a game	no	neutral
+which it did not have, only 3 usb 2 ports.	usb 2 ports	no	neutral
+no startup disk was not included but that may be my fault.	startup disk	no	neutral
+there is no "tools" menu.	"tools" menu	no	neutral
+it is very fast and has everything that i need except for a word program.	word program	no	negative
+needs a cd/dvd drive and a bigger power switch.	cd/dvd drive	yes	neutral
+needs a cd/dvd drive and a bigger power switch.	power switch	yes	negative
+my laptop with windows 7 crashed and i did not want windows 8.	windows 7	no	negative
+my laptop with windows 7 crashed and i did not want windows 8.	windows 8	no	negative
+easy to install also small to leave anywhere at your bedroom also very easy to configure for adsl cable or wifi.	install	no	positive
+easy to install also small to leave anywhere at your bedroom also very easy to configure for adsl cable or wifi.	configure for adsl cable or wifi	no	positive
+the speakers could have been better but it wasn't a deal breaker... this is a great little laptop... love it!	speakers	no	conflict
+nice packing.	packing	no	positive
+i switched to this because i wanted something different, even though i miss windows.	windows	no	positive
+apple no longer includes idvd with the computer and furthermore, apple doesn't even offer it anymore!	idvd	no	negative
+i also wanted windows 7, which this one has.	windows 7	no	positive
+at first, i feel a little bit uncomfortable in using the mac system.	mac system	no	negative
+i am used to computers with windows so i am having a little difficulty finding my way around.	windows	no	neutral
+it just works out of the box and you have a lot of cool software included with the os.	works	yes	positive
+it just works out of the box and you have a lot of cool software included with the os.	software	yes	positive
+it just works out of the box and you have a lot of cool software included with the os.	os	yes	neutral
+its as advertised on here..... it works great and is not a waste of money!	works	no	positive
+runs like a champ.....	runs	no	positive
+premium price for the os more than anything else.	price	yes	positive
+premium price for the os more than anything else.	os	yes	neutral
+i was a little concerned about the touch pad based on reviews, but i've found it fine to work with.	touch pad	no	positive
+i bought this mac book pro along with a new 27" imac and while they are still light years more reliable than a pc i have noticed a decline in the reliability of my mac computers.	reliability	no	conflict
+the sound as mentioned earlier isn't the best, but it can be solved with headphones.	sound	yes	conflict
+the sound as mentioned earlier isn't the best, but it can be solved with headphones.	headphones	yes	neutral
+the track pad is a bit squirrely at times- sometimes too sensitive, and sometimes a bit unresponsive, but it's usable.	track pad	no	conflict
+however, the experience was great since the os does not become unstable and the application will simply shutdown and reopen.	os	no	positive
+however, the experience was great since the os does not become unstable and the application will simply shutdown and reopen.	application	no	positive
+if you ask me, for this price it should be included.	price	no	negative
+the battery is not as shown in the product photos.	battery	no	negative
+even though i could have gotten a pc twice the speed for the same price i still think there's nothing like a mac.	price	no	conflict
+even though i could have gotten a pc twice the speed for the same price i still think there's nothing like a mac.	speed	no	conflict
+shipping was quick and product described was the product sent and so much more...	shipping	no	positive
+the retina display display make pictures i took years ago jaw dropping.	retina display display	no	positive
+the mac mini is probably the simplest example of compact computing out there.	compact computing	no	positive
+instead, i'll focus more on the actual performance and feature set of the hardware itself so you can make an educated decision on which mac to buy.	performance and feature set of the hardware	no	neutral
+other ports include firewire 800, gigabit ethernet, magsafe port, microphone jack.	ports	no	neutral
+other ports include firewire 800, gigabit ethernet, magsafe port, microphone jack.	firewire 800	no	neutral
+other ports include firewire 800, gigabit ethernet, magsafe port, microphone jack.	gigabit ethernet	no	neutral
+other ports include firewire 800, gigabit ethernet, magsafe port, microphone jack.	magsafe port	no	neutral
+other ports include firewire 800, gigabit ethernet, magsafe port, microphone jack.	microphone jack	no	neutral
+additionally, there is barely a ventilation system in the computer, and even the simple activity of watching videos let alone playing steam games causes the laptop to get very very hot, and in fact impossible to keep on lap.	ventilation system	yes	negative
+additionally, there is barely a ventilation system in the computer, and even the simple activity of watching videos let alone playing steam games causes the laptop to get very very hot, and in fact impossible to keep on lap.	watching videos	yes	neutral
+additionally, there is barely a ventilation system in the computer, and even the simple activity of watching videos let alone playing steam games causes the laptop to get very very hot, and in fact impossible to keep on lap.	playing steam games	yes	neutral
+chatting with acer support, i was advised the problem was corrupted operating system files.	acer support	no	neutral
+chatting with acer support, i was advised the problem was corrupted operating system files.	operating system files	no	neutral
+it's been a couple weeks since the purchase and i'm struggle with finding the correct keys (but that was expected).	keys	no	neutral
+many people complain about the new os, and it's urgent for apple to fix it asap!	os	no	negative
+now that i have upgraded to lion i am much happier about mac os and have just bought an imac for office.	lion	no	positive
+now that i have upgraded to lion i am much happier about mac os and have just bought an imac for office.	mac os	no	positive
+user upgradeable ram and hdd.	ram	no	positive
+user upgradeable ram and hdd.	hdd	no	positive
+but i wanted the pro for the cd/dvd player.	cd/dvd player	no	positive
+the ram memory is good but should have splurged for 8mb instead of 4mb.	ram memory	no	conflict
+i was a little worry at first because i don't have a lot of experience with os.x and windows has always been second nature to me after many years of using windows.	os.x	yes	neutral
+i was a little worry at first because i don't have a lot of experience with os.x and windows has always been second nature to me after many years of using windows.	windows	yes	positive
+i was a little worry at first because i don't have a lot of experience with os.x and windows has always been second nature to me after many years of using windows.	windows	yes	neutral
+with the softwares supporting the use of other os makes it much better.	os	no	neutral
+with the softwares supporting the use of other os makes it much better.	softwares	no	neutral
+i then upgraded to mac os x 10.8 "mountain lion".	mac os x 10.8 "mountain lion"	no	neutral
+i was considering buying the air, but in reality, this one has a more powerful performance and seems much more convenient, even though it's about .20 inch thicker and 2 lbs heavier.	performance	no	positive
+at home and the office it gets plugged into an external 24" lcd screen, so built in screen size is not terribly important.	built in screen size	no	neutral
+at home and the office it gets plugged into an external 24" lcd screen, so built in screen size is not terribly important.	external 24" lcd screen	no	neutral
+just beware no dvd slot so when i went to install software i had on cd i couldn't.	install software	yes	negative
+just beware no dvd slot so when i went to install software i had on cd i couldn't.	dvd slot	yes	neutral
+i bought it to be able to dedicate a small, portable laptop to my writing and was surprised to learn that i needed to buy a word processing program to do so.	word processing program	no	neutral
+this version of macbook pro runs on a third-generation cpu ("ivy bridge"), not the latest fourth-generation haswell cpu the 2013 version has.	third-generation cpu ("ivy bridge")	no	neutral
+this version of macbook pro runs on a third-generation cpu ("ivy bridge"), not the latest fourth-generation haswell cpu the 2013 version has.	fourth-generation haswell cpu	no	neutral
+no cd rom in the new version there's no way i'm spending that kind of money on something has less features than the older version.	cd rom	yes	neutral
+no cd rom in the new version there's no way i'm spending that kind of money on something has less features than the older version.	features	yes	negative
+the volume is really low to low for a laptopwas not expectin t volume to be so lowan i hate that about this computer	volume	no	negative
+the volume is really low to low for a laptopwas not expectin t volume to be so lowan i hate that about this computer	volume	no	negative
+and its not hard to accidentally bang it against something so i recommend getting a case to protect it.	case	no	neutral
+i got this at an amazing price from amazon and it arrived just in time.	price	no	positive
+every time i log into the system after a few hours, there is this endlessly frustrating process that i have to go through.	log into the system	no	negative
+put a ssd and use a 21" led screen, this set up is silky smooth!	21" led screen	yes	neutral
+put a ssd and use a 21" led screen, this set up is silky smooth!	ssd	yes	neutral
+put a ssd and use a 21" led screen, this set up is silky smooth!	set up	yes	positive
+the case is now slightly larger than the previous generation, but the lack of an external power supply justifies the small increase in size.	case	yes	negative
+the case is now slightly larger than the previous generation, but the lack of an external power supply justifies the small increase in size.	size	yes	conflict
+the case is now slightly larger than the previous generation, but the lack of an external power supply justifies the small increase in size.	external power supply	yes	neutral
+i had to buy a wireless mouse to go with it, as i am old school and hate the pad, but knew that before i bought it, now it works great, need to get adjusted to the key board, as i am used to a bigger one and pounding.	wireless mouse	yes	neutral
+i had to buy a wireless mouse to go with it, as i am old school and hate the pad, but knew that before i bought it, now it works great, need to get adjusted to the key board, as i am used to a bigger one and pounding.	pad	yes	negative
+i had to buy a wireless mouse to go with it, as i am old school and hate the pad, but knew that before i bought it, now it works great, need to get adjusted to the key board, as i am used to a bigger one and pounding.	works	yes	positive
+i had to buy a wireless mouse to go with it, as i am old school and hate the pad, but knew that before i bought it, now it works great, need to get adjusted to the key board, as i am used to a bigger one and pounding.	key board	yes	neutral
+when considering a mac, look at the total cost of ownership and not just the initial price tag.	cost of ownership	no	neutral
+when considering a mac, look at the total cost of ownership and not just the initial price tag.	price tag	no	neutral
+has all the other features i wanted including a vga port, hdmi, ethernet and 3 usb ports.	features	yes	positive
+has all the other features i wanted including a vga port, hdmi, ethernet and 3 usb ports.	vga port	yes	neutral
+has all the other features i wanted including a vga port, hdmi, ethernet and 3 usb ports.	hdmi	yes	neutral
+has all the other features i wanted including a vga port, hdmi, ethernet and 3 usb ports.	ethernet	yes	neutral
+has all the other features i wanted including a vga port, hdmi, ethernet and 3 usb ports.	usb ports	yes	neutral
+the only thing i dislike about this laptop are the rubber pads found on the bottom of the computer for grip.	rubber pads	no	negative
+it's a decent computer for the price and hopefully it will last a long time.	price	no	neutral
+i was really happy because it is a much better price on amazon.com than it was in the mac store.	price	no	conflict
+the nicest  part is the low heat output and ultra quiet operation.	heat output	no	positive
+the nicest  part is the low heat output and ultra quiet operation.	operation	no	positive
+i will upgrade the ram myself (because with this model you can you can do it) later on.	upgrade the ram	no	positive
+the price is 200 dollars down.	price	no	positive
+this mac mini does not have a built-in mic, and it would seem that its mac os 10.9 does not handle external microphones properly.	built-in mic	yes	neutral
+this mac mini does not have a built-in mic, and it would seem that its mac os 10.9 does not handle external microphones properly.	mac os 10.9	yes	negative
+this mac mini does not have a built-in mic, and it would seem that its mac os 10.9 does not handle external microphones properly.	external microphones	yes	neutral
+a lot of features and shortcuts on the mbp that i was never exposed to on a normal pc.	features	no	neutral
+a lot of features and shortcuts on the mbp that i was never exposed to on a normal pc.	shortcuts	no	neutral
+wasn't sure if i was going to like it much less love it so i went to a local best buy and played around with the ios system on a mac pro and it was totally unique and different.	ios system	no	positive
+air has higher resolution but the fonts are small.	resolution	yes	positive
+air has higher resolution but the fonts are small.	fonts	yes	negative
+working with mac is so much easier, so many cool features.	working	no	positive
+working with mac is so much easier, so many cool features.	features	no	positive
+i like the brightness and adjustments.	brightness	no	positive
+i like the brightness and adjustments.	adjustments	no	positive
+i only wish this mac had a cd/dvd player built in.	cd/dvd player	no	neutral
+the only thing i miss is that my old alienware laptop had backlit keys.	backlit keys	no	negative
+the only thing i miss are the "home/end" type keys and other things that i grew accustomed to after so long.	"home/end" type keys	no	neutral
+so happy with this purchase, i just wish it came with microsoft word.	microsoft word	no	neutral
+it has enough memory and speed to run my business with all the flexibility that comes with a laptop.	memory	no	positive
+it has enough memory and speed to run my business with all the flexibility that comes with a laptop.	speed	no	positive
+it has enough memory and speed to run my business with all the flexibility that comes with a laptop.	flexibility	no	positive
+the speed, the simplicity, the design.. it is lightyears ahead of any pc i have ever owned.	speed	no	positive
+the speed, the simplicity, the design.. it is lightyears ahead of any pc i have ever owned.	simplicity	no	positive
+the speed, the simplicity, the design.. it is lightyears ahead of any pc i have ever owned.	design	no	positive
+the battery life is excellent, the display is excellent, and downloading apps is a  breeze.	battery life	no	positive
+the battery life is excellent, the display is excellent, and downloading apps is a  breeze.	display	no	positive
+the battery life is excellent, the display is excellent, and downloading apps is a  breeze.	downloading apps	no	positive
+the screen, the software and the smoothness of the operating system.	screen	no	positive
+the screen, the software and the smoothness of the operating system.	software	no	positive
+the screen, the software and the smoothness of the operating system.	operating system	no	positive
+i have dropped mine a couple times with only a slim plastic case covering it.	slim plastic case	no	neutral
+i also made a recovery usb stick.	recovery usb stick	no	neutral
+but with this laptop, the bass is very weak and the sound comes out sounding tinny.	bass	no	negative
+but with this laptop, the bass is very weak and the sound comes out sounding tinny.	sound	no	negative
+the built quality is really good, i was so happy and excited about this product.	built quality	no	positive
+i am loving the fast performance also.	performance	no	positive
+further, this mac mini has a sloppy bluetooth interface (courtesy of the mac os) and the range is poor.	bluetooth interface	no	negative
+further, this mac mini has a sloppy bluetooth interface (courtesy of the mac os) and the range is poor.	mac os	no	negative
+further, this mac mini has a sloppy bluetooth interface (courtesy of the mac os) and the range is poor.	range	no	negative
+if you start on the far right side and scroll to your left the start menu will automatically come up.	start menu	no	neutral
+my only gripe would be the need to add more ram.	ram	no	negative
+fine if you have a touch screen.	touch screen	no	neutral
+as far as user type - i dabble in everything from games (wow) to photoshop, but nothing professionally.	games	no	neutral
+as far as user type - i dabble in everything from games (wow) to photoshop, but nothing professionally.	photoshop	no	neutral
+i re-seated the "wlan" card inside and re-installed the lan device drivers.	"wlan" card	no	neutral
+i re-seated the "wlan" card inside and re-installed the lan device drivers.	lan device drivers	no	neutral
+this by far beats any computer out on the market today built well, battery life amazing.	built	no	positive
+this by far beats any computer out on the market today built well, battery life amazing.	battery life	no	positive
+the os is easy, and offers all kinds of surprises.	os	no	positive
+i had to get apple customer support to correct the problem.	apple customer support	no	neutral
+a veryimportant feature is firewire 800 which in my experience works better then usb3 (in pc enabled with usb3)i was not originally sold on the mac os i felt it was inferior in many ways to windows 7.	firewire 800	yes	positive
+a veryimportant feature is firewire 800 which in my experience works better then usb3 (in pc enabled with usb3)i was not originally sold on the mac os i felt it was inferior in many ways to windows 7.	usb3	yes	negative
+a veryimportant feature is firewire 800 which in my experience works better then usb3 (in pc enabled with usb3)i was not originally sold on the mac os i felt it was inferior in many ways to windows 7.	usb3	yes	neutral
+a veryimportant feature is firewire 800 which in my experience works better then usb3 (in pc enabled with usb3)i was not originally sold on the mac os i felt it was inferior in many ways to windows 7.	mac os	yes	negative
+a veryimportant feature is firewire 800 which in my experience works better then usb3 (in pc enabled with usb3)i was not originally sold on the mac os i felt it was inferior in many ways to windows 7.	windows 7	yes	positive
+i like itunes, the apparent security, the mini form factor, all the nice graphics stuff.	itunes	no	positive
+i like itunes, the apparent security, the mini form factor, all the nice graphics stuff.	security	no	positive
+i like itunes, the apparent security, the mini form factor, all the nice graphics stuff.	mini form factor	no	positive
+i like itunes, the apparent security, the mini form factor, all the nice graphics stuff.	graphics stuff	no	positive
+the first time i used the card reader it took half an hour and a pair of tweezers to remove the card.	card reader	no	negative
+the first time i used the card reader it took half an hour and a pair of tweezers to remove the card.	remove the card	no	negative
+after replacing the spinning hard disk with an ssd drive, my mac is just flying.	spinning hard disk	yes	neutral
+after replacing the spinning hard disk with an ssd drive, my mac is just flying.	ssd drive	yes	positive
+i know some people complained about hdmi issues but they released a firmware patch to address that issue.	hdmi	no	neutral
+i know some people complained about hdmi issues but they released a firmware patch to address that issue.	firmware patch	no	neutral
+with the needs of a professional photographer i generally need to keep up with the best specs.	specs	no	neutral
+packing and everything was perfect	packing	no	positive
+i called toshiba where i gave them the serial number and they informed me that they were having issues with the mother boards.	mother boards	no	neutral
+i seem to be having repeat problems as the mother board in this one is diagnosed as faulty, related to the graphics card.	mother board	no	negative
+i seem to be having repeat problems as the mother board in this one is diagnosed as faulty, related to the graphics card.	graphics card	no	negative
+it also comes with 4g of ram but if you're like me you want to max that out so i immediately put 8g of ram in her and i've never used a computer that performs better.	4g of ram	yes	neutral
+it also comes with 4g of ram but if you're like me you want to max that out so i immediately put 8g of ram in her and i've never used a computer that performs better.	8g of ram	yes	neutral
+it also comes with 4g of ram but if you're like me you want to max that out so i immediately put 8g of ram in her and i've never used a computer that performs better.	performs	yes	positive
+this computer is also awesome for my sons virtual home schooling.	virtual home schooling	no	positive
+cost is more as compared to other brands.	cost	no	negative
+also...- excellent operating system- size and weight for optimal mobility- excellent durability of the battery- the functions provided by the trackpad is unmatched by any other brand-	operating system	no	positive
+also...- excellent operating system- size and weight for optimal mobility- excellent durability of the battery- the functions provided by the trackpad is unmatched by any other brand-	size	no	positive
+also...- excellent operating system- size and weight for optimal mobility- excellent durability of the battery- the functions provided by the trackpad is unmatched by any other brand-	weight	no	positive
+also...- excellent operating system- size and weight for optimal mobility- excellent durability of the battery- the functions provided by the trackpad is unmatched by any other brand-	mobility	no	positive
+also...- excellent operating system- size and weight for optimal mobility- excellent durability of the battery- the functions provided by the trackpad is unmatched by any other brand-	durability of the battery	no	positive
+also...- excellent operating system- size and weight for optimal mobility- excellent durability of the battery- the functions provided by the trackpad is unmatched by any other brand-	functions provided by the trackpad	no	positive
+this hardware seems to be better than the imac in that it isn't $1400 and smaller.	hardware	no	positive
+i've had it for about 2 months now and found no issues with software or updates.	software	no	neutral
+i've had it for about 2 months now and found no issues with software or updates.	updates	no	neutral
+the latest version does not have a disc drive.	disc drive	no	neutral
+screen - although some people might complain about low res which i think is ridiculous.	screen	no	positive
+screen - although some people might complain about low res which i think is ridiculous.	res	no	positive

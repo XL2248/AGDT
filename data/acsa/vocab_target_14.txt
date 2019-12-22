@@ -1,0 +1,4 @@
+neutral
+negative
+positive
+conflict
