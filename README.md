@@ -1,4 +1,4 @@
-# Code and data for A Novel Aspect-Guided Deep Transition Model for Aspect Based Sentiment Analysis. \[[paper](https://www.aclweb.org/anthology/D19-1559.pdf)\]
+# Code and data for [A Novel Aspect-Guided Deep Transition Model for Aspect Based Sentiment Analysis](https://www.aclweb.org/anthology/D19-1559.pdf)
 
 ## Introduction
 
