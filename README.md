@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The implementation is based on [THUMT](https://github.com/thumt/THUMT). Download [Glove](http://nlp.stanford.edu/data/glove.840B.300d.zip) file and change the path in AGDT/thumt/thumt/bin/trainer.py correspondingly. 
+The implementation is based on [THUMT](https://github.com/thumt/THUMT). Download [Glove](http://nlp.stanford.edu/data/glove.840B.300d.zip) file and change the path in 'AGDT/thumt/thumt/bin/trainer.py' correspondingly. The dataset we used is from [GCAE](https://github.com/wxue004cs/GCAE).
 
 ## Usage
 
@@ -22,7 +22,7 @@ bash run_train_r.sh
 bash run_train_l.sh
 ```
 
-The result can be found in the path like '/14_dt-result-0/eval/record'.
+The result can be found in the path like '/14_agdt-result-0/eval/record'.
 
 ## Requirements
 
